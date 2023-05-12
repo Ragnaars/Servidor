@@ -119,15 +119,15 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2023-05-11 03:25:45 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2023-05-11 02:02:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2023-05-11 03:25:45 -0400"
     },
     "done": true
   },
@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
     "criteria": {
       "has_item": "2023-05-11 02:01:44 -0400"
@@ -507,6 +513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2023-05-12 00:50:14 -0400"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/tactical_stock": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:19 -0400"
@@ -549,6 +561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2023-05-10 21:39:21 -0400"
@@ -576,6 +594,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2023-05-11 02:08:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
     },
     "done": true
   },
@@ -663,6 +687,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2023-05-12 02:28:59 -0400"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2023-05-10 21:39:12 -0400"
@@ -678,6 +708,12 @@
   "rottencreatures:recipes/rottencreatures.rottencreatures/corrupted_wart": {
     "criteria": {
       "has_nether_wart": "2023-05-10 21:50:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-05-12 01:02:17 -0400"
     },
     "done": true
   },
@@ -801,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-05-12 00:49:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
@@ -864,6 +906,24 @@
   "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
     "criteria": {
       "has_item": "2023-05-11 02:14:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/tools/flint_n_steel_dropbear_claw": {
+    "criteria": {
+      "has_items": "2023-05-12 02:20:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
     },
     "done": true
   },
@@ -948,6 +1008,12 @@
   "mcwfurnitures:recipes/crimson": {
     "criteria": {
       "has_planks": "2023-05-10 21:39:12 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
     },
     "done": true
   },
@@ -1123,6 +1189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-05-12 02:28:55 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_special": {
     "criteria": {
       "has_gold_nugget": "2023-05-10 21:39:16 -0400"
@@ -1183,6 +1255,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2023-05-12 00:56:07 -0400"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_rider": {
     "criteria": {
       "location0": "2023-05-11 03:36:57 -0400"
@@ -1213,6 +1291,12 @@
     },
     "done": true
   },
+  "adorn:recipes/oak_post": {
+    "criteria": {
+      "has_oak_planks": "2023-05-12 00:40:42 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/vintorez": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
@@ -1222,6 +1306,12 @@
   "securitycraft:recipes/securitycraft/protecto": {
     "criteria": {
       "has_ender_eye": "2023-05-11 02:16:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2023-05-12 02:06:37 -0400"
     },
     "done": true
   },
@@ -1267,15 +1357,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2023-05-11 01:58:58 -0400"
-    },
-    "done": true
-  },
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2023-05-11 01:34:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-05-11 01:58:58 -0400"
     },
     "done": true
   },
@@ -1357,6 +1447,18 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2023-05-12 00:45:50 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2023-05-10 21:39:21 -0400"
@@ -1395,6 +1497,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-05-12 00:47:14 -0400",
       "cooked_beef": "2023-05-10 21:41:46 -0400",
       "porkchop": "2023-05-11 01:51:26 -0400",
       "bread": "2023-05-11 02:15:02 -0400",
@@ -1481,6 +1584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2023-05-12 02:06:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
@@ -1529,11 +1638,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
+    },
+    "done": true
+  },
   "adorn:root": {
     "criteria": {
       "has_wool": "2023-05-11 01:57:42 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2023-05-12 02:06:56 -0400"
+    },
+    "done": false
   },
   "additionalguns:recipes/additionalguns/bullet_long": {
     "criteria": {
@@ -1556,6 +1677,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2023-05-12 00:56:07 -0400"
     },
     "done": true
   },
@@ -2087,21 +2214,27 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
-    "criteria": {
-      "has_item": "2023-05-11 02:01:44 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2023-05-11 01:57:56 -0400"
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-05-11 02:01:44 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/casing_long": {
     "criteria": {
       "has_iron_nugget": "2023-05-10 21:39:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
     },
     "done": true
   },
@@ -2201,15 +2334,15 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2023-05-11 03:15:41 -0400"
-    },
-    "done": true
-  },
   "adorn:recipes/spruce_platform": {
     "criteria": {
       "has_slab": "2023-05-11 01:57:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2023-05-11 03:15:41 -0400"
     },
     "done": true
   },
@@ -2225,9 +2358,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
+    },
+    "done": true
+  },
   "rottencreatures:recipes/rottencreatures.rottencreatures/tnt_barrel": {
     "criteria": {
       "has_gunpowder": "2023-05-10 21:50:36 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
     },
     "done": true
   },
@@ -2246,6 +2391,12 @@
   "alexsmobs:recipes/building_blocks/bison_fur_to_wool": {
     "criteria": {
       "has_items": "2023-05-11 01:49:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2023-05-12 00:54:07 -0400"
     },
     "done": true
   },
@@ -2316,6 +2467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2023-05-12 00:40:42 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2023-05-10 21:39:21 -0400"
@@ -2331,6 +2488,12 @@
   "cgm:recipes/cgm/pistol": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-05-12 00:54:08 -0400"
     },
     "done": true
   },
@@ -2403,6 +2566,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2023-05-11 03:12:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-05-12 02:06:56 -0400"
     },
     "done": true
   },
