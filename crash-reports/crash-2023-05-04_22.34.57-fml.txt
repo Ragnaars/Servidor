@@ -1,0 +1,164 @@
+---- Minecraft Crash Report ----
+// Don't be sad, have a hug! <3
+
+Time: 04-05-23 22:34
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.logging.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:55) ~[forge-1.18.2-40.2.2-universal.jar%2386!/:?] {re:classloading}
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:39) ~[forge-1.18.2-40.2.2-universal.jar%2386!/:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:112) ~[server-1.18.2-20220404.173914-srg.jar%2381!/:?] {re:classloading}
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?] {}
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:32) ~[fmlloader-1.18.2-40.2.2.jar%2317!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:149) [bootstraplauncher-1.0.0.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Stacktrace:
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.18.2-40.2.2.jar%2317!/:1.0] {}
+-- MOD lod --
+Details:
+	Mod File: /C:/Users/gerar/OneDrive/Escritorio/SVV/mods/DistantHorizons-1.6.5a-1.18.2.jar
+	Failure message: Distant Horizons (lod) encountered an error during the common_setup event phase
+		java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+	Mod Version: 1.6.5a
+	Mod Issue URL: https://gitlab.com/jeseibel/minecraft-lod-mod/-/issues
+	Exception message: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+Stacktrace:
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.18.2-40.2.2.jar%2317!/:1.0] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-9.1.3.jar%235!/:?] {}
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:110) ~[securejarhandler-1.0.3.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$16(ModuleClassLoader.java:216) ~[securejarhandler-1.0.3.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:226) ~[securejarhandler-1.0.3.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:216) ~[securejarhandler-1.0.3.jar:?] {}
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:132) ~[securejarhandler-1.0.3.jar:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?] {}
+	at forge.com.seibel.lod.common.LodCommonMain.initConfig(LodCommonMain.java:48) ~[DistantHorizons-1.6.5a-1.18.2.jar%2352!/:?] {re:classloading}
+	at com.seibel.lod.forge.ForgeMain.init(ForgeMain.java:79) ~[DistantHorizons-1.6.5a-1.18.2.jar%2352!/:?] {re:classloading}
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-5.0.3.jar%232!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-5.0.3.jar%232!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-5.0.3.jar%232!/:?] {}
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-5.0.3.jar%232!/:?] {}
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106) ~[javafmllanguage-1.18.2-40.2.2.jar%2383!/:?] {}
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107) ~[fmlcore-1.18.2-40.2.2.jar%2382!/:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.18.2
+	Minecraft Version ID: 1.18.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 18.0.2.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 1832803840 bytes (1747 MiB) / 2852126720 bytes (2720 MiB) up to 6442450944 bytes (6144 MiB)
+	CPUs: 4
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz
+	Identifier: Intel64 Family 6 Model 158 Stepping 11
+	Microarchitecture: Coffee Lake
+	Frequency (GHz): 3,60
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: NVIDIA GeForce GTX 1650
+	Graphics card #0 vendor: NVIDIA (0x10de)
+	Graphics card #0 VRAM (MB): 4095,00
+	Graphics card #0 deviceId: 0x1f82
+	Graphics card #0 versionInfo: DriverVersion=31.0.15.3179
+	Memory slot #0 capacity (MB): 8192,00
+	Memory slot #0 clockSpeed (GHz): 2,40
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MB): 8192,00
+	Memory slot #1 clockSpeed (GHz): 2,40
+	Memory slot #1 type: DDR4
+	Virtual memory max (MB): 17834,89
+	Virtual memory used (MB): 9819,96
+	Swap memory total (MB): 1502,54
+	Swap memory used (MB): 110,13
+	JVM Flags: 2 total; -Xmx4G -Xmx6G
+	ModLauncher: 9.1.3+9.1.3+main.9b69c82a
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		 mixin PLUGINSERVICE 
+		 eventbus PLUGINSERVICE 
+		 slf4jfixer PLUGINSERVICE 
+		 object_holder_definalize PLUGINSERVICE 
+		 runtime_enum_extender PLUGINSERVICE 
+		 capability_token_subclass PLUGINSERVICE 
+		 accesstransformer PLUGINSERVICE 
+		 runtimedistcleaner PLUGINSERVICE 
+		 mixin TRANSFORMATIONSERVICE 
+		 OptiFine TRANSFORMATIONSERVICE 
+		 fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		javafml@null
+		kotlinforforge@3.11.0
+		lowcodefml@null
+	Mod List: 
+		server-1.18.2-20220404.173914-srg.jar             |Minecraft                     |minecraft                     |1.18.2              |SIDED_SETU|Manifest: NOSIGNATURE
+		DistantHorizons-1.6.5a-1.18.2.jar                 |Distant Horizons              |lod                           |1.6.5a              |ERROR     |Manifest: NOSIGNATURE
+		inventorysorter-1.18.2-19.0.4.jar                 |Simple Inventory Sorter       |inventorysorter               |19.0.4              |SIDED_SETU|Manifest: NOSIGNATURE
+		trashslot-forge-1.18.2-11.0.3 (1).jar             |TrashSlot                     |trashslot                     |11.0.3              |SIDED_SETU|Manifest: NOSIGNATURE
+		EasierSleeping-1.18.2-2.1.0.jar                   |Easier Sleeping               |easier_sleeping               |2.1.0               |SIDED_SETU|Manifest: NOSIGNATURE
+		cgm-1.3.3-1.18.2.jar                              |MrCrayfish's Gun Mod          |cgm                           |1.3.3               |SIDED_SETU|Manifest: NOSIGNATURE
+		Jade-1.18.2-forge-5.2.6.jar                       |Jade                          |jade                          |5.2.6               |SIDED_SETU|Manifest: NOSIGNATURE
+		CreativeCore_FORGE_v2.6.16_mc1.18.2.jar           |CreativeCore                  |creativecore                  |0.0NONE             |SIDED_SETU|Manifest: NOSIGNATURE
+		jei-1.18.2-forge-10.2.1.1002.jar                  |Just Enough Items             |jei                           |10.2.1.1002         |SIDED_SETU|Manifest: NOSIGNATURE
+		simplylight-1.18.2-1.4.5-build.43.jar             |Simply Light                  |simplylight                   |1.18.2-1.4.5-build.4|SIDED_SETU|Manifest: NOSIGNATURE
+		caelus-forge-1.18.1-3.0.0.2.jar                   |Caelus API                    |caelus                        |1.18.1-3.0.0.2      |SIDED_SETU|Manifest: NOSIGNATURE
+		kffmod-3.11.0.jar                                 |Kotlin For Forge              |kotlinforforge                |3.11.0              |SIDED_SETU|Manifest: NOSIGNATURE
+		rottencreatures-forge-1.18.2-1.0.0.jar            |Rotten Creatures              |rottencreatures               |1.0.0               |SIDED_SETU|Manifest: NOSIGNATURE
+		obscure_api-10.jar                                |Obscure API                   |obscure_api                   |10                  |SIDED_SETU|Manifest: NOSIGNATURE
+		curios-forge-1.18.2-5.0.9.0.jar                   |Curios API                    |curios                        |1.18.2-5.0.9.0      |SIDED_SETU|Manifest: NOSIGNATURE
+		journeymap-1.18.2-5.9.5-forge.jar                 |Journeymap                    |journeymap                    |5.9.5               |SIDED_SETU|Manifest: NOSIGNATURE
+		Organics-1.18.2-0.1.9.jar                         |Organics                      |organics                      |0.1.3               |SIDED_SETU|Manifest: NOSIGNATURE
+		[1.18.2]+SecurityCraft+v1.9.6.1.jar               |SecurityCraft                 |securitycraft                 |1.9.6.1             |SIDED_SETU|Manifest: NOSIGNATURE
+		TravelersBackpack-1.18.2-7.1.30.jar               |Traveler's Backpack           |travelersbackpack             |7.1.30              |SIDED_SETU|Manifest: NOSIGNATURE
+		additional-guns-0.8.2-1.18.2.jar                  |Additional Guns               |additionalguns                |0.8.2               |SIDED_SETU|Manifest: NOSIGNATURE
+		elevatorid-1.18.2-1.8.4.jar                       |Elevator Mod                  |elevatorid                    |1.18.2-1.8.4        |SIDED_SETU|Manifest: NOSIGNATURE
+		tombstone-7.6.4-1.18.2.jar                        |Corail Tombstone              |tombstone                     |7.6.4               |SIDED_SETU|Manifest: NOSIGNATURE
+		RingOfTeleport-Forge-1.18.2-1.4.7.jar             |Ring of Teleport              |ring_of_teleport              |1.4.7               |SIDED_SETU|Manifest: NOSIGNATURE
+		Obscuria's+Tooltips+1.4.1+(1.18.2) (1).jar        |Obscuria's Tooltips           |ob_tooltips                   |1.4.1               |SIDED_SETU|Manifest: NOSIGNATURE
+		curiouselytra-forge-1.18.1-5.0.1.0.jar            |Curious Elytra                |curiouselytra                 |1.18.1-5.0.1.0      |SIDED_SETU|Manifest: NOSIGNATURE
+		mcw-furniture-3.1.0-mc1.18.2forge.jar             |Macaw's Furniture             |mcwfurnitures                 |3.1.0               |SIDED_SETU|Manifest: NOSIGNATURE
+		balm-3.2.6 (1).jar                                |Balm                          |balm                          |3.2.6               |SIDED_SETU|Manifest: NOSIGNATURE
+		Adorn-3.5.0+1.18.2-forge.jar                      |Adorn                         |adorn                         |3.5.0+1.18.2        |SIDED_SETU|Manifest: NOSIGNATURE
+		Enhanced_Celestials-forge-1.18.2-2.0.7.jar        |Enhanced Celestials           |enhancedcelestials            |2.0.7               |SIDED_SETU|Manifest: NOSIGNATURE
+		Obscuria's+Essentials+3.2.0+(Forge+1.18.2).jar    |Obscuria's Essentials         |ob_core                       |3.2.0               |SIDED_SETU|Manifest: NOSIGNATURE
+		framework-0.4.2-1.18.2.jar                        |Framework                     |framework                     |0.4.2               |SIDED_SETU|Manifest: NOSIGNATURE
+		FallingTree-1.18.2-3.5.5.jar                      |FallingTree                   |fallingtree                   |3.5.5               |SIDED_SETU|Manifest: 3c:8e:df:6c:df:a6:2a:9f:af:64:ea:04:9a:cf:65:92:3b:54:93:0e:96:50:b4:52:e1:13:42:18:2b:ae:40:29
+		Paraglider-1.18.2-1.6.0.6.jar                     |Paraglider                    |paraglider                    |1.6.0.6             |SIDED_SETU|Manifest: NOSIGNATURE
+		cloth-config-6.3.81-forge.jar                     |Cloth Config v4 API           |cloth_config                  |6.3.81              |SIDED_SETU|Manifest: NOSIGNATURE
+		voicechat-forge-1.18.2-2.4.5.jar                  |Simple Voice Chat             |voicechat                     |1.18.2-2.4.5        |SIDED_SETU|Manifest: NOSIGNATURE
+		forge-1.18.2-40.2.2-universal.jar                 |Forge                         |forge                         |40.2.2              |SIDED_SETU|Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		toms_storage-1.18.2-1.4.2.jar                     |Tom's Simple Storage Mod      |toms_storage                  |1.4.2               |SIDED_SETU|Manifest: NOSIGNATURE
+		PlayerRevive_FORGE_v2.0.13_mc1.18.2.jar           |PlayerRevive                  |playerrevive                  |2.0.13              |SIDED_SETU|Manifest: NOSIGNATURE
+		geckolib-forge-1.18-3.0.57.jar                    |GeckoLib                      |geckolib3                     |3.0.57              |SIDED_SETU|Manifest: NOSIGNATURE
+		crittersandcompanions-1.18.2-1.0.2.jar            |Critters and Companions       |crittersandcompanions         |1.18.2-1.0.2        |SIDED_SETU|Manifest: NOSIGNATURE
+		aquamirae-5.api10.jar                             |Aquamirae                     |aquamirae                     |5.api10             |SIDED_SETU|Manifest: NOSIGNATURE
+	Crash Report UUID: eb186d62-664d-4061-8d94-62aa5bb150b8
+	FML: 40.2
+	Forge: net.minecraftforge:40.2.2
