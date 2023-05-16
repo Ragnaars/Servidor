@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
@@ -212,6 +218,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/display_case": {
+    "criteria": {
+      "has_item_frame": "2023-05-16 19:10:27 -0400"
     },
     "done": true
   },
@@ -581,6 +593,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2023-05-16 15:55:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
@@ -671,6 +689,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
@@ -680,6 +710,12 @@
   "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
       "capsid": "2023-05-11 03:33:57 -0400"
+    },
+    "done": true
+  },
+  "thepursuer:adv_forbidden_power": {
+    "criteria": {
+      "adv_forbidden_power": "2023-05-16 17:36:10 -0400"
     },
     "done": true
   },
@@ -746,6 +782,12 @@
   "adorn:recipes/spruce_table": {
     "criteria": {
       "has_slab": "2023-05-14 23:02:06 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_post": {
+    "criteria": {
+      "has_warped_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -1067,6 +1109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2023-05-11 01:35:17 -0400"
@@ -1114,9 +1162,10 @@
       "minecraft:crimson_forest": "2023-05-11 02:34:06 -0400",
       "minecraft:nether_wastes": "2023-05-04 18:03:01 -0400",
       "minecraft:soul_sand_valley": "2023-05-10 21:50:05 -0400",
-      "minecraft:basalt_deltas": "2023-05-10 21:49:46 -0400"
+      "minecraft:basalt_deltas": "2023-05-10 21:49:46 -0400",
+      "minecraft:warped_forest": "2023-05-16 16:01:20 -0400"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
@@ -1133,6 +1182,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2023-05-12 19:03:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
     },
     "done": true
   },
@@ -1520,6 +1575,18 @@
     },
     "done": true
   },
+  "adorn:recipes/warped_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2023-05-11 02:56:50 -0400"
@@ -1628,6 +1695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_post": {
     "criteria": {
       "has_stone": "2023-05-04 21:59:34 -0400"
@@ -1652,6 +1725,12 @@
   "adorn:recipes/birch_chair": {
     "criteria": {
       "has_slab": "2023-05-12 19:06:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
     },
     "done": true
   },
@@ -1760,6 +1839,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2023-05-12 03:13:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -2141,6 +2226,12 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_post": {
+    "criteria": {
+      "has_acacia_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2023-05-11 02:26:52 -0400"
@@ -2183,6 +2274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2023-05-16 17:16:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2023-05-10 22:10:13 -0400"
@@ -2192,6 +2289,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_slab": {
     "criteria": {
       "has_item": "2023-05-15 01:19:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
     },
     "done": true
   },
@@ -2279,6 +2382,12 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:end/find_end_city": {
     "criteria": {
       "in_city": "2023-05-11 23:03:51 -0400"
@@ -2363,6 +2472,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2023-05-16 16:10:08 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2023-05-12 03:06:49 -0400"
@@ -2418,6 +2533,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2023-05-16 15:58:50 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
@@ -2460,6 +2581,12 @@
     },
     "done": true
   },
+  "thepursuer:adv_anger_pursuer": {
+    "criteria": {
+      "adv_anger_pursuer": "2023-05-16 16:23:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2023-05-11 00:57:04 -0400"
@@ -2469,6 +2596,12 @@
   "adorn:recipes/cyan_sofa": {
     "criteria": {
       "has_wool": "2023-05-11 01:57:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2023-05-16 19:10:27 -0400"
     },
     "done": true
   },
@@ -2559,6 +2692,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -2922,6 +3061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-05-16 04:13:44 -0400"
@@ -2943,6 +3088,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2023-05-11 01:58:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -3090,6 +3241,12 @@
     },
     "done": true
   },
+  "adorn:recipes/acacia_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2023-05-11 00:19:17 -0400"
@@ -3113,6 +3270,7 @@
       "minecraft:blaze": "2023-05-10 21:52:52 -0400",
       "minecraft:pillager": "2023-05-10 21:43:27 -0400",
       "minecraft:skeleton": "2023-05-04 21:40:22 -0400",
+      "minecraft:ravager": "2023-05-16 17:35:34 -0400",
       "minecraft:ghast": "2023-05-10 22:00:57 -0400",
       "minecraft:hoglin": "2023-05-11 03:25:40 -0400",
       "minecraft:vindicator": "2023-05-12 18:43:52 -0400",
@@ -3124,6 +3282,7 @@
       "minecraft:slime": "2023-05-11 00:18:04 -0400",
       "minecraft:evoker": "2023-05-14 23:34:18 -0400",
       "minecraft:phantom": "2023-05-11 00:18:16 -0400",
+      "minecraft:zombified_piglin": "2023-05-16 15:59:50 -0400",
       "minecraft:witch": "2023-05-11 23:53:45 -0400",
       "minecraft:wither_skeleton": "2023-05-10 21:42:50 -0400",
       "minecraft:husk": "2023-05-11 03:37:58 -0400",
@@ -3397,9 +3556,21 @@
     },
     "done": true
   },
+  "adorn:recipes/warped_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
+    },
+    "done": true
+  },
   "rottencreatures:recipes/rottencreatures.rottencreatures/corrupted_wart": {
     "criteria": {
       "has_nether_wart": "2023-05-11 02:18:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2023-05-16 16:07:50 -0400"
     },
     "done": true
   },
@@ -3595,6 +3766,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2023-05-16 16:01:26 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2023-05-11 02:26:52 -0400"
@@ -3622,6 +3805,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-05-12 03:13:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -3661,9 +3850,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2023-05-11 02:06:23 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
     },
     "done": true
   },
@@ -3777,6 +3978,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2023-05-16 15:56:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2023-05-15 01:14:33 -0400"
@@ -3855,6 +4062,12 @@
     },
     "done": true
   },
+  "thepursuer:adv_win_the_battle": {
+    "criteria": {
+      "adv_win_the_battle": "2023-05-16 16:24:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2023-05-12 02:58:29 -0400"
@@ -3900,6 +4113,12 @@
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
     },
     "done": true
   },
@@ -4029,6 +4248,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-05-16 17:43:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2023-05-10 22:10:13 -0400"
@@ -4041,9 +4266,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2023-05-04 21:59:34 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/diorite_post": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
     },
     "done": true
   },
@@ -4173,6 +4410,12 @@
     },
     "done": true
   },
+  "thepursuer:adv_win_the_war": {
+    "criteria": {
+      "adv_win_the_war": "2023-05-16 17:16:29 -0400"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2023-05-12 00:55:04 -0400"
@@ -4182,6 +4425,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-05-12 03:06:30 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/warped_kitchen_cupboard": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -4219,6 +4468,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2023-05-11 01:42:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2023-05-16 16:01:26 -0400"
     },
     "done": true
   },
@@ -4273,6 +4528,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-05-12 03:13:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
     },
     "done": true
   },
@@ -4453,6 +4714,12 @@
   "additionalguns:recipes/additionalguns/val": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
     },
     "done": true
   },
@@ -4686,6 +4953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2023-05-10 22:16:41 -0400"
@@ -4707,6 +4980,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2023-05-11 02:06:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -4758,6 +5037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/jungle": {
     "criteria": {
       "has_planks": "2023-05-04 20:33:37 -0400"
@@ -4767,6 +5052,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -4824,6 +5115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:13:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2023-05-10 22:06:08 -0400"
@@ -4845,6 +5142,12 @@
   "additionalguns:recipes/additionalguns/glock18": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2023-05-16 17:16:38 -0400"
     },
     "done": true
   },
@@ -4893,6 +5196,12 @@
   "additionalguns:recipes/additionalguns/casing_long": {
     "criteria": {
       "has_iron_nugget": "2023-05-12 16:28:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
@@ -4995,6 +5304,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2023-05-15 01:01:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2023-05-16 16:07:50 -0400"
     },
     "done": true
   },
@@ -5130,6 +5445,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/combat/blood_sprayer": {
+    "criteria": {
+      "has_items": "2023-05-16 15:55:51 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2023-05-04 22:01:16 -0400"
@@ -5247,6 +5568,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2023-05-04 21:59:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2023-05-16 16:05:47 -0400"
     },
     "done": true
   },
