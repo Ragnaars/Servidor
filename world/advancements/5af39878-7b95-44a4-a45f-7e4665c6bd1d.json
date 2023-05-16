@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-05-16 00:57:40 -0400"
+    },
+    "done": true
+  },
   "thepursuer:adv_pursuer_root": {
     "criteria": {
       "adv_pursuer_root": "2023-05-14 23:17:04 -0400"
@@ -518,6 +524,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-05-12 03:13:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
     },
     "done": true
   },
@@ -779,6 +791,12 @@
     },
     "done": true
   },
+  "adorn:recipes/nether_brick_post": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
       "killed": "2023-05-11 03:18:23 -0400"
@@ -866,6 +884,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2023-05-10 22:10:13 -0400"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2023-05-16 02:05:50 -0400"
     },
     "done": true
   },
@@ -1925,6 +1949,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2023-05-16 00:56:53 -0400"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_ladder": {
     "criteria": {
       "has_stone": "2023-05-04 21:59:34 -0400"
@@ -1940,6 +1970,12 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2023-05-14 22:59:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
     },
     "done": true
   },
@@ -2388,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
+    },
+    "done": true
+  },
   "organics:organics": {
     "criteria": {
       "organics": "2023-05-04 18:02:24 -0400"
@@ -2535,6 +2577,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2023-05-12 03:13:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
     },
     "done": true
   },
@@ -2928,6 +2976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-05-16 00:57:40 -0400"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2023-05-15 01:19:26 -0400"
@@ -3103,6 +3157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2023-05-04 20:44:15 -0400"
@@ -3217,6 +3277,12 @@
     },
     "done": true
   },
+  "adorn:recipes/nether_brick_chimney_from_block": {
+    "criteria": {
+      "has_key_item_0": "2023-05-16 01:02:48 -0400"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2023-05-04 20:33:37 -0400"
@@ -3226,6 +3292,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-05-12 16:08:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
     },
     "done": true
   },
@@ -3436,6 +3508,12 @@
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2023-05-11 02:26:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
     },
     "done": true
   },
@@ -3876,6 +3954,12 @@
   "additionalguns:recipes/additionalguns/vintorez_stock": {
     "criteria": {
       "has_iron_nugget": "2023-05-12 16:28:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
     },
     "done": true
   },
@@ -4554,6 +4638,12 @@
     },
     "done": true
   },
+  "adorn:recipes/basalt_post": {
+    "criteria": {
+      "has_basalt": "2023-05-16 00:57:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2023-05-04 18:03:01 -0400"
@@ -4752,6 +4842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-05-16 00:57:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2023-05-04 22:01:05 -0400"
@@ -4887,6 +4983,12 @@
   "additionalguns:recipes/additionalguns/casing_special": {
     "criteria": {
       "has_iron_nugget": "2023-05-12 16:28:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2023-05-16 01:02:48 -0400"
     },
     "done": true
   },
