@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2023-05-16 03:56:28 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2023-05-16 04:50:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2023-05-12 03:06:30 -0400"
@@ -863,6 +875,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/trophy_system": {
     "criteria": {
       "has_iron": "2023-05-11 02:06:23 -0400"
@@ -944,6 +962,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2023-05-11 00:47:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
     },
     "done": true
   },
@@ -1205,6 +1229,12 @@
   "securitycraft:recipes/securitycraft/panic_button": {
     "criteria": {
       "has_redstone": "2023-05-11 02:26:52 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2023-05-16 03:56:28 -0400"
     },
     "done": true
   },
@@ -1502,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
   "adorn:recipes/stone_platform": {
     "criteria": {
       "has_slab": "2023-05-11 22:54:25 -0400"
@@ -1616,6 +1652,12 @@
   "adorn:recipes/birch_chair": {
     "criteria": {
       "has_slab": "2023-05-12 19:06:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
     },
     "done": true
   },
@@ -1793,6 +1835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
   "adorn:recipes/birch_table": {
     "criteria": {
       "has_slab": "2023-05-12 19:06:06 -0400"
@@ -1820,6 +1868,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2023-05-11 03:25:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
     },
     "done": true
   },
@@ -1865,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2023-05-10 23:53:30 -0400"
@@ -1898,6 +1958,12 @@
   "adorn:recipes/stone_rod": {
     "criteria": {
       "has_stone": "2023-05-04 21:59:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
     },
     "done": true
   },
@@ -2856,6 +2922,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_gunpowder": "2023-05-10 22:00:57 -0400"
@@ -3006,6 +3078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2023-05-15 00:11:36 -0400"
@@ -3091,6 +3169,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2023-05-16 03:56:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-05-12 16:08:24 -0400"
@@ -3100,6 +3184,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
     },
     "done": true
   },
@@ -3807,6 +3897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2023-05-11 02:26:52 -0400"
@@ -3960,6 +4056,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2023-05-16 01:02:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
     },
     "done": true
   },
@@ -4914,6 +5016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-05-16 04:07:59 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/custom_mac": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
@@ -5100,6 +5208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2023-05-04 20:40:54 -0400"
@@ -5182,6 +5296,12 @@
   "adorn:recipes/spruce_step": {
     "criteria": {
       "has_slab": "2023-05-14 23:02:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2023-05-16 04:13:44 -0400"
     },
     "done": true
   },
