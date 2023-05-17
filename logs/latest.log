@@ -1,41 +1,479 @@
-[17may.2023 00:00:09.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23174ms or 463 ticks behind
-[17may.2023 00:00:31.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Set the time to 1000]
-[17may.2023 00:00:49.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Set the weather to clear]
-[17may.2023 00:00:51.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Set the weather to clear]
-[17may.2023 00:05:03.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Knowledge raises the soul]
-[17may.2023 00:07:58.467] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Your First Receptacle]
-[17may.2023 00:09:09.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Magic Disenchantment]
-[17may.2023 00:09:09.339] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Let The Magic Happen]
-[17may.2023 00:10:04.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo lost connection: Disconnected
-[17may.2023 00:10:04.739] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo left the game
-[17may.2023 00:10:04.741] [Server thread/INFO] [voicechat/]: Disconnecting client Orlandisimo
-[17may.2023 00:11:40.480] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Orlandisimo is 5af39878-7b95-44a4-a45f-7e4665c6bd1d
-[17may.2023 00:11:44.274] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d6a889c
-[17may.2023 00:11:44.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Orlandisimo[/[2803:c180:2101:79d3:e18b:4cad:6c07:8ffd]:50245] logged in with entity id 7177 at (630.7881638781604, 74.0, -191.15371144343774)
-[17may.2023 00:11:44.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Orlandisimo
-[17may.2023 00:11:44.341] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Orlandisimo
-[17may.2023 00:11:44.344] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Orlandisimo
-[17may.2023 00:11:44.345] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Orlandisimo
-[17may.2023 00:11:44.348] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Orlandisimo
-[17may.2023 00:11:44.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Orlandisimo
-[17may.2023 00:11:44.364] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Orlandisimo
-[17may.2023 00:11:44.424] [Netty Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3052e08a (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
-[17may.2023 00:11:44.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo joined the game
-[17may.2023 00:11:44.434] [Netty Server IO #0/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@e4bf0b4 (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
-[17may.2023 00:11:44.525] [Server thread/INFO] [Waila/]: Syncing config to Orlandisimo (5af39878-7b95-44a4-a45f-7e4665c6bd1d)
-[17may.2023 00:11:48.479] [Server thread/INFO] [voicechat/]: Received secret request of Orlandisimo (17)
-[17may.2023 00:11:48.480] [Server thread/INFO] [voicechat/]: Sent secret to Orlandisimo
-[17may.2023 00:11:52.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 5af39878-7b95-44a4-a45f-7e4665c6bd1d
-[17may.2023 00:11:53.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 5af39878-7b95-44a4-a45f-7e4665c6bd1d
-[17may.2023 00:11:53.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player Orlandisimo (5af39878-7b95-44a4-a45f-7e4665c6bd1d) successfully connected to voice chat
-[17may.2023 00:12:00.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[17may.2023 00:12:20.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4768ms or 95 ticks behind
-[17may.2023 00:12:37.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
-[17may.2023 00:13:05.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[17may.2023 00:14:27.482] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Set the weather to clear]
-[17may.2023 00:19:30.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Set the weather to clear]
-[17may.2023 00:20:03.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[17may.2023 00:20:35.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo moved too quickly! 10.74230758106296,0.5321209193231482,-14.773892660069237
-[17may.2023 00:21:01.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! 11.969282017548949,-0.04245905396790306,-12.645473939295016
-[17may.2023 00:21:25.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -12.927853524085549,-4.855121446945759,-11.513986770239399
-[17may.2023 00:21:25.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo moved too quickly! 1.0100088805343148,18.00015236637364,-0.6070604440531042
+[17May2023 00:28:44.124] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.2, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[17May2023 00:28:44.128] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 18.0.2.1 by Oracle Corporation
+[17May2023 00:28:44.317] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[17May2023 00:28:44.318] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/Rodrigo/Desktop/Servidor/mods/OptiFine_1.18.2_HD_U_H7.jar%2339!/
+[17May2023 00:28:44.325] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\Rodrigo\Desktop\Servidor\mods\OptiFine_1.18.2_HD_U_H7.jar
+[17May2023 00:28:44.328] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[17May2023 00:28:44.383] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Rodrigo/Desktop/Servidor/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[17May2023 00:28:44.392] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[17May2023 00:28:44.801] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Rodrigo\Desktop\Servidor\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.2\fmlcore-1.18.2-40.2.2.jar is missing mods.toml file
+[17May2023 00:28:44.806] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Rodrigo\Desktop\Servidor\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.2\javafmllanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[17May2023 00:28:44.812] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Rodrigo\Desktop\Servidor\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.2\lowcodelanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[17May2023 00:28:44.817] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Rodrigo\Desktop\Servidor\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.2\mclanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[17May2023 00:28:44.938] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[17May2023 00:28:45.343] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[17May2023 00:28:45.349] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 350
+[17May2023 00:28:45.626] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[17May2023 00:28:46.364] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17May2023 00:28:46.389] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[17May2023 00:28:46.391] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[17May2023 00:28:46.472] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[17May2023 00:28:46.474] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[17May2023 00:28:46.498] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2023 00:28:46.501] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2023 00:28:52.277] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[17May2023 00:28:52.576] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.2, for MC 1.18.2 with MCP 20220404.173914
+[17May2023 00:28:52.576] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.2 Initialized
+[17May2023 00:28:53.914] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[17May2023 00:28:54.478] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[17May2023 00:28:57.996] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[17May2023 00:28:57.997] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[17May2023 00:28:58.277] [main/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Enhanced Celestials registered: minecraft:sound_event
+[17May2023 00:28:58.673] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[17May2023 00:28:58.674] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[17May2023 00:28:58.694] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
+[17May2023 00:28:58.695] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
+[17May2023 00:28:58.701] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
+[17May2023 00:28:58.702] [Thread-0/INFO] [ModdingLegacy/blue_skies/]: Reloading Config: blue_skies-common.toml
+[17May2023 00:28:58.739] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:biome_dictionary
+[17May2023 00:28:58.766] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:loot_table_alias
+[17May2023 00:28:58.773] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:data_handler_type
+[17May2023 00:28:58.776] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:dynamic_spawner
+[17May2023 00:28:58.776] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[17May2023 00:28:58.804] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered organics:stone_forest to [structure_gel:neutral_temp]
+[17May2023 00:28:58.805] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered organics:hoaky_forest to [structure_gel:wooded, structure_gel:neutral_temp]
+[17May2023 00:28:58.918] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\Rodrigo\Desktop\Servidor\config\rottencreatures-common.toml is not correct. Correcting
+[17May2023 00:28:58.919] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
+[17May2023 00:28:58.973] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[17May2023 00:28:59.026] [modloading-worker-0/INFO] [ring_of_teleport/]: RingOfTeleport common setup
+[17May2023 00:28:59.039] [modloading-worker-0/INFO] [voicechat/]: Compatibility version 17
+[17May2023 00:28:59.121] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[17May2023 00:28:59.124] [modloading-worker-0/INFO] [voicechat/]: Loading plugins
+[17May2023 00:28:59.129] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[17May2023 00:28:59.131] [modloading-worker-0/INFO] [voicechat/]: Loaded 0 plugin(s)
+[17May2023 00:28:59.131] [modloading-worker-0/INFO] [voicechat/]: Initializing plugins
+[17May2023 00:28:59.131] [modloading-worker-0/INFO] [voicechat/]: Initialized 0 plugin(s)
+[17May2023 00:28:59.177] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[17May2023 00:28:59.208] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[17May2023 00:28:59.314] [main/INFO] [journeymap/]: Initializing Packet Registries
+[17May2023 00:28:59.334] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
+[17May2023 00:28:59.334] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
+[17May2023 00:28:59.334] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
+[17May2023 00:28:59.369] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
+[17May2023 00:28:59.369] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
+[17May2023 00:28:59.371] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.PotionEffect as a FluidEffect for fluid.travelersbackpack.potion_fluid with the ID 2
+[17May2023 00:28:59.372] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.MilkEffect as a FluidEffect for Milk with the ID 3
+[17May2023 00:28:59.386] [modloading-worker-0/INFO] [ring_of_teleport/]: Hello world from RingOfTeleport
+[17May2023 00:28:59.388] [modloading-worker-0/INFO] [ring_of_teleport/]: RingOfTeleport IMC
+[17May2023 00:28:59.405] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[17May2023 00:28:59.409] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[17May2023 00:28:59.416] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
+[17May2023 00:28:59.417] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[17May2023 00:29:00.557] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.12 Target: null
+[17May2023 00:29:00.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cgm
+[17May2023 00:29:01.387] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.3 Target: 1.3.3
+[17May2023 00:29:01.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[17May2023 00:29:01.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.5 Target: 5.9.7
+[17May2023 00:29:01.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17May2023 00:29:02.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 7.1.30 Target: 7.1.33
+[17May2023 00:29:02.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Starting version check at https://raw.githubusercontent.com/HaloOfBlocks/VersionChecker/main/additionalguns/update.json
+[17May2023 00:29:02.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Found status: BETA Current: 0.8.2 Target: 0.8.2
+[17May2023 00:29:02.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17May2023 00:29:02.477] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17May2023 00:29:02.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 40.2.2 Target: null
+[17May2023 00:29:02.898] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[17May2023 00:29:04.960] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/Rodrigo/Desktop/Servidor/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2389!/assets/.mcassetsroot' uses unexpected schema
+[17May2023 00:29:04.961] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/Rodrigo/Desktop/Servidor/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2389!/data/.mcassetsroot' uses unexpected schema
+[17May2023 00:29:05.401] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.4.5 Target: 1.18.2-2.4.7
+[17May2023 00:29:05.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[17May2023 00:29:06.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[17May2023 00:29:06.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[17May2023 00:29:06.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.6.4 Target: 7.6.5
+[17May2023 00:29:06.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[17May2023 00:29:06.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[17May2023 00:29:06.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[17May2023 00:29:06.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.2 Target: 0.4.2
+[17May2023 00:29:06.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
+[17May2023 00:29:07.182] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2320!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.2.jar%2390!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.2.jar%2390!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2320!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
+	... 6 more
+[17May2023 00:29:07.184] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[17May2023 00:29:07.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA_OUTDATED Current: 1.4.2 Target: 1.4.3
+[17May2023 00:29:07.779] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17May2023 00:29:07.780] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17May2023 00:29:07.783] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17May2023 00:29:07.784] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17May2023 00:29:07.786] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17May2023 00:29:07.788] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[17May2023 00:29:07.789] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[17May2023 00:29:15.258] [Worker-Main-10/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[17May2023 00:29:17.334] [Worker-Main-10/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3330 advancements
+[17May2023 00:29:17.337] [Worker-Main-10/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[17May2023 00:29:17.337] [Worker-Main-10/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[17May2023 00:29:17.337] [Worker-Main-10/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[17May2023 00:29:17.338] [Worker-Main-10/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[17May2023 00:29:17.420] [Worker-Main-10/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[17May2023 00:29:17.421] [Worker-Main-10/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[17May2023 00:29:17.421] [Worker-Main-10/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[17May2023 00:29:17.422] [Worker-Main-10/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[17May2023 00:29:19.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[17May2023 00:29:19.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17May2023 00:29:19.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17May2023 00:29:19.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17May2023 00:29:19.778] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17May2023 00:29:19.791] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[17May2023 00:29:19.954] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[17May2023 00:29:19.959] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: Loading "Easier Sleeping" Server Config
+[17May2023 00:29:19.960] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [sleep_percent] = 50
+[17May2023 00:29:19.962] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [sleep_message] = is now in bed.
+[17May2023 00:29:19.962] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [wake_message] = stood up.
+[17May2023 00:29:19.963] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [morning_message] = Good Morning
+[17May2023 00:29:19.964] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [dimensions] = [minecraft:overworld]
+[17May2023 00:29:19.965] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [dimension_list_type] = SLEEP_ACTIVE
+[17May2023 00:29:19.965] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: "Easier Sleeping" Server Config loaded
+[17May2023 00:29:19.986] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[17May2023 00:29:20.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17May2023 00:29:20.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17May2023 00:29:21.198] [Worker-Main-14/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2023 00:29:21.282] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2023 00:29:21.783] [Worker-Main-14/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2023 00:29:22.282] [Worker-Main-14/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[17May2023 00:29:22.782] [Worker-Main-9/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[17May2023 00:29:23.411] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2630 ms
+[17May2023 00:29:23.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.469s)! For help, type "help"
+[17May2023 00:29:23.435] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17May2023 00:29:23.467] [Server thread/INFO] [ring_of_teleport/]: RingOfTeleport server setup
+[17May2023 00:29:23.628] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 54686 bytes (in 6 string chunks with the size of 10000)
+[17May2023 00:29:23.645] [VoiceChatServerThread/INFO] [voicechat/]: Server started at port 25565
+[17May2023 00:30:41.662] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player XTACISSS is 601c1471-0541-4b76-8877-7831f9ea4c6d
+[17May2023 00:30:44.493] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ead9f4e
+[17May2023 00:30:44.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XTACISSS[/[0:0:0:0:0:0:0:1]:51552] logged in with entity id 596 at (1759.8965227597232, 166.77449729787807, -659.0341930499693)
+[17May2023 00:30:44.530] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to XTACISSS
+[17May2023 00:30:44.543] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to XTACISSS
+[17May2023 00:30:44.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to XTACISSS
+[17May2023 00:30:44.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to XTACISSS
+[17May2023 00:30:44.661] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to XTACISSS
+[17May2023 00:30:44.680] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to XTACISSS
+[17May2023 00:30:44.682] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to XTACISSS
+[17May2023 00:30:44.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS joined the game
+[17May2023 00:30:44.771] [Server thread/INFO] [Waila/]: Syncing config to XTACISSS (601c1471-0541-4b76-8877-7831f9ea4c6d)
+[17May2023 00:30:44.826] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 00:30:44.833] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 00:30:45.414] [Server thread/INFO] [voicechat/]: Received secret request of XTACISSS (17)
+[17May2023 00:30:45.416] [Server thread/INFO] [voicechat/]: Sent secret to XTACISSS
+[17May2023 00:30:47.333] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully authenticated player 601c1471-0541-4b76-8877-7831f9ea4c6d
+[17May2023 00:30:48.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Successfully validated connection of player 601c1471-0541-4b76-8877-7831f9ea4c6d
+[17May2023 00:30:48.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: Player XTACISSS (601c1471-0541-4b76-8877-7831f9ea4c6d) successfully connected to voice chat
+[17May2023 00:31:26.565] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Orlandisimo is 5af39878-7b95-44a4-a45f-7e4665c6bd1d
+[17May2023 00:31:29.866] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f6d5506
+[17May2023 00:31:29.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Orlandisimo[/[0:0:0:0:0:0:0:1]:51574] logged in with entity id 1854 at (1772.4529174617414, 92.51694365943254, -732.8562889044687)
+[17May2023 00:31:29.878] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Orlandisimo
+[17May2023 00:31:29.880] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Orlandisimo
+[17May2023 00:31:29.882] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Orlandisimo
+[17May2023 00:31:29.882] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Orlandisimo
+[17May2023 00:31:29.884] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Orlandisimo
+[17May2023 00:31:29.886] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Orlandisimo
+[17May2023 00:31:29.891] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Orlandisimo
+[17May2023 00:31:29.898] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo joined the game
+[17May2023 00:31:29.911] [Server thread/INFO] [Waila/]: Syncing config to Orlandisimo (5af39878-7b95-44a4-a45f-7e4665c6bd1d)
+[17May2023 00:31:29.930] [Netty Server IO #3/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 00:31:29.930] [Netty Server IO #3/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 00:31:30.104] [Server thread/INFO] [voicechat/]: Received secret request of Orlandisimo (17)
+[17May2023 00:31:30.130] [Server thread/INFO] [voicechat/]: Sent secret to Orlandisimo
+[17May2023 00:33:27.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Set the weather to clear]
+[17May2023 00:38:47.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Set the weather to clear]
+[17May2023 00:45:30.043] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/25648, l='ServerLevel[world]', x=820.50, y=52.00, z=-2943.50]
+[17May2023 00:48:07.218] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Teleported XTACISSS to Orlandisimo]
+[17May2023 00:48:07.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -73.55143179037725,62.006238652897565,6309.837691039564
+[17May2023 00:48:22.404] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [People Are Strange]
+[17May2023 00:51:05.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo lost connection: Disconnected
+[17May2023 00:51:05.752] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo left the game
+[17May2023 00:51:05.757] [Server thread/INFO] [voicechat/]: Disconnecting client Orlandisimo
+[17May2023 00:51:11.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Sweet Dreams]
+[17May2023 00:56:27.671] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Orlandisimo is 5af39878-7b95-44a4-a45f-7e4665c6bd1d
+[17May2023 00:56:31.109] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3466e210
+[17May2023 00:56:31.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Orlandisimo[/[0:0:0:0:0:0:0:1]:52280] logged in with entity id 31038 at (908.4264643400329, 108.01738666886756, 3629.152415068375)
+[17May2023 00:56:31.120] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Orlandisimo
+[17May2023 00:56:31.123] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Orlandisimo
+[17May2023 00:56:31.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Orlandisimo
+[17May2023 00:56:31.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Orlandisimo
+[17May2023 00:56:31.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Orlandisimo
+[17May2023 00:56:31.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Orlandisimo
+[17May2023 00:56:31.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Orlandisimo
+[17May2023 00:56:31.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo joined the game
+[17May2023 00:56:31.158] [Netty Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 00:56:31.159] [Netty Server IO #4/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 00:56:31.178] [Server thread/INFO] [Waila/]: Syncing config to Orlandisimo (5af39878-7b95-44a4-a45f-7e4665c6bd1d)
+[17May2023 00:56:32.404] [Server thread/INFO] [voicechat/]: Received secret request of Orlandisimo (17)
+[17May2023 00:56:32.405] [Server thread/INFO] [voicechat/]: Sent secret to Orlandisimo
+[17May2023 00:56:44.232] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Teleported Orlandisimo to XTACISSS]
+[17May2023 00:58:09.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Teleported Orlandisimo to XTACISSS]
+[17May2023 01:00:05.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo moved too quickly! -3.320114984618577,-1.7147996893462505,17.23750354589447
+[17May2023 01:00:46.454] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo lost connection: Timed out
+[17May2023 01:00:46.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo left the game
+[17May2023 01:00:46.458] [Server thread/INFO] [voicechat/]: Disconnecting client Orlandisimo
+[17May2023 01:00:57.572] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Orlandisimo is 5af39878-7b95-44a4-a45f-7e4665c6bd1d
+[17May2023 01:01:01.608] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@8f03bc8
+[17May2023 01:01:01.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Orlandisimo[/[0:0:0:0:0:0:0:1]:52401] logged in with entity id 36476 at (-14.468607897509372, 130.77438707966957, 4052.066063324496)
+[17May2023 01:01:01.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Orlandisimo
+[17May2023 01:01:01.619] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Orlandisimo
+[17May2023 01:01:01.620] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Orlandisimo
+[17May2023 01:01:01.620] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Orlandisimo
+[17May2023 01:01:01.623] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Orlandisimo
+[17May2023 01:01:01.624] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Orlandisimo
+[17May2023 01:01:01.629] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Orlandisimo
+[17May2023 01:01:01.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo joined the game
+[17May2023 01:01:01.650] [Server thread/INFO] [Waila/]: Syncing config to Orlandisimo (5af39878-7b95-44a4-a45f-7e4665c6bd1d)
+[17May2023 01:01:01.666] [Netty Server IO #5/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:01:01.666] [Netty Server IO #5/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:01:02.085] [Server thread/INFO] [voicechat/]: Received secret request of Orlandisimo (17)
+[17May2023 01:01:02.085] [Server thread/INFO] [voicechat/]: Sent secret to Orlandisimo
+[17May2023 01:02:52.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Teleported XTACISSS to Orlandisimo]
+[17May2023 01:02:52.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -244.33161775771623,-50.038987386011485,1607.4826151378952
+[17May2023 01:04:31.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo has made the advancement [Suit Up]
+[17May2023 01:04:52.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Where Is The Stone Pen?]
+[17May2023 01:06:41.391] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17May2023 01:06:41.391] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17May2023 01:06:41.424] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17May2023 01:06:41.424] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[17May2023 01:06:41.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo moved too quickly! 0.8088980976989504,-2.8753815527386877,17.492434775579568
+[17May2023 01:07:14.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Teleported XTACISSS to Orlandisimo]
+[17May2023 01:07:14.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -57.05991288386246,-49.723129953779065,1742.734905650087
+[17May2023 01:07:14.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -57.05991288386246,-49.723129953779065,1742.734905650087
+[17May2023 01:09:35.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS is bleeding. XTACISSS was slain by Vindicator
+[17May2023 01:09:35.859] [Server thread/WARN] [tombstone/]: The death event of the player XTACISSS was canceled by another mod
+[17May2023 01:09:35.869] [Server thread/INFO] [tombstone/]: The player XTACISSS has successfully been saved
+[17May2023 01:10:06.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Teleported Orlandisimo to XTACISSS]
+[17May2023 01:12:39.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS is bleeding. XTACISSS was slain by Vindicator
+[17May2023 01:12:39.500] [Server thread/WARN] [tombstone/]: The death event of the player XTACISSS was canceled by another mod
+[17May2023 01:12:39.512] [Server thread/INFO] [tombstone/]: The player XTACISSS has successfully been saved
+[17May2023 01:14:07.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45638, l='ServerLevel[world]', x=84.30, y=75.00, z=6908.70] died, message: 'Unemployed was shot by Pillager'
+[17May2023 01:15:44.753] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45713, l='ServerLevel[world]', x=92.50, y=75.00, z=6915.70] died, message: 'Unemployed was shot by Pillager'
+[17May2023 01:16:48.455] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45712, l='ServerLevel[world]', x=60.14, y=75.00, z=6863.84] died, message: 'Unemployed was shot by Pillager'
+[17May2023 01:17:33.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Teleported XTACISSS to Orlandisimo]
+[17May2023 01:17:33.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -17.61593666902822,-40.05666606525135,16.677808675852248
+[17May2023 01:19:13.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS is bleeding. XTACISSS was slain by Vindicator
+[17May2023 01:19:13.399] [Server thread/WARN] [tombstone/]: The death event of the player XTACISSS was canceled by another mod
+[17May2023 01:19:13.413] [Server thread/INFO] [tombstone/]: The player XTACISSS has successfully been saved
+[17May2023 01:19:17.881] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Teleported Orlandisimo to XTACISSS]
+[17May2023 01:21:31.056] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Set the weather to clear]
+[17May2023 01:21:33.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=122, y=13, z=7286} but found not block entity block Block{minecraft:water}[level=1] at location
+[17May2023 01:21:33.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=122, y=13, z=7286}
+[17May2023 01:21:42.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Teleported XTACISSS to Orlandisimo]
+[17May2023 01:21:42.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -34.95851979739383,0.306217782157745,244.39565588214464
+[17May2023 01:21:42.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -34.95851979739383,0.306217782157745,244.39565588214464
+[17May2023 01:21:42.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -34.95851979739383,0.306217782157745,244.39565588214464
+[17May2023 01:21:42.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -34.95851979739383,0.306217782157745,244.39565588214464
+[17May2023 01:21:50.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [The Lighthouse]
+[17May2023 01:21:56.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=103, y=15, z=7445} but found not block entity block Block{minecraft:water}[level=3] at location
+[17May2023 01:21:56.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=3] but failed at location BlockPos{x=103, y=15, z=7445}
+[17May2023 01:22:21.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7566ms or 151 ticks behind
+[17May2023 01:23:11.351] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo lost connection: Disconnected
+[17May2023 01:23:11.351] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo left the game
+[17May2023 01:23:11.354] [Server thread/INFO] [voicechat/]: Disconnecting client Orlandisimo
+[17May2023 01:24:51.556] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Orlandisimo is 5af39878-7b95-44a4-a45f-7e4665c6bd1d
+[17May2023 01:24:54.907] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@10440733
+[17May2023 01:24:54.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Orlandisimo[/[0:0:0:0:0:0:0:1]:53011] logged in with entity id 52639 at (30.004991261773636, 80.66486967545832, 7300.649347944443)
+[17May2023 01:24:54.915] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Orlandisimo
+[17May2023 01:24:54.916] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Orlandisimo
+[17May2023 01:24:54.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Orlandisimo
+[17May2023 01:24:54.920] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Orlandisimo
+[17May2023 01:24:54.921] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Orlandisimo
+[17May2023 01:24:54.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Orlandisimo
+[17May2023 01:24:54.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Orlandisimo
+[17May2023 01:24:54.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo joined the game
+[17May2023 01:24:54.942] [Server thread/INFO] [Waila/]: Syncing config to Orlandisimo (5af39878-7b95-44a4-a45f-7e4665c6bd1d)
+[17May2023 01:24:54.954] [Netty Server IO #6/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:24:54.955] [Netty Server IO #6/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:24:56.198] [Server thread/INFO] [voicechat/]: Received secret request of Orlandisimo (17)
+[17May2023 01:24:56.199] [Server thread/INFO] [voicechat/]: Sent secret to Orlandisimo
+[17May2023 01:26:28.531] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Teleported Orlandisimo to XTACISSS]
+[17May2023 01:26:35.154] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:26:35.155] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:26:36.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Now You're Thinking with Portals!]
+[17May2023 01:26:36.279] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Forever Bright?]
+[17May2023 01:26:44.955] [Netty Server IO #6/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:26:44.956] [Netty Server IO #6/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:26:44.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo has made the advancement [Now You're Thinking with Portals!]
+[17May2023 01:26:44.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo has made the advancement [Forever Bright?]
+[17May2023 01:28:48.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Teleported XTACISSS to Orlandisimo]
+[17May2023 01:33:47.979] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has made the advancement [Tough to Beat]
+[17May2023 01:34:26.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Set the time to 1000]
+[17May2023 01:38:16.519] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:38:16.519] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:38:24.575] [Netty Server IO #6/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:38:24.576] [Netty Server IO #6/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:39:16.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo has made the advancement [Tough to Beat]
+[17May2023 01:42:09.008] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:42:09.009] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:42:16.014] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@3bae9f7e (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:42:16.015] [Netty Server IO #2/ERROR] [net.minecraft.commands.synchronization.ArgumentTypes/]: Could not serialize cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument@32e878fc (class cpw.mods.inventorysorter.InventorySorterCommand$ContainerClassArgument) - will not be sent to client!
+[17May2023 01:49:36.584] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XTACISSS: Teleported XTACISSS to Orlandisimo]
+[17May2023 01:49:36.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! -158.1291131815907,34.39982042807482,437.3178683188658
+[17May2023 02:03:43.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Orlandisimo: Teleported Orlandisimo to XTACISSS]
+[17May2023 02:03:54.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS has completed the challenge [Hero of the Village]
+[17May2023 02:04:14.661] [Netty Server IO #6/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 15
+java.lang.NullPointerException: Cannot invoke "java.util.UUID.getMostSignificantBits()" because "p_130078_" is null
+	at net.minecraft.network.FriendlyByteBuf.m_130077_(FriendlyByteBuf.java:371) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.protocol.game.ClientboundChatPacket.m_5779_(ClientboundChatPacket.java:31) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at net.minecraft.network.Connection.m_178303_(Connection.java:214) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:203) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:469) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[17May2023 02:04:14.665] [Netty Server IO #6/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 15
+java.lang.NullPointerException: Cannot invoke "java.util.UUID.getMostSignificantBits()" because "p_130078_" is null
+	at net.minecraft.network.FriendlyByteBuf.m_130077_(FriendlyByteBuf.java:371) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.protocol.game.ClientboundChatPacket.m_5779_(ClientboundChatPacket.java:31) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at net.minecraft.network.Connection.m_178303_(Connection.java:214) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.Connection.m_129520_(Connection.java:200) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.Connection.m_129514_(Connection.java:183) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9831_(ServerGamePacketListenerImpl.java:1078) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_141995_(ServerGamePacketListenerImpl.java:1073) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerPlayer.lambda$sendMessage$10(ServerPlayer.java:1244) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at net.minecraft.network.Connection.m_178303_(Connection.java:216) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:203) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:469) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[17May2023 02:04:16.267] [Netty Server IO #6/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 15
+java.lang.NullPointerException: Cannot invoke "java.util.UUID.getMostSignificantBits()" because "p_130078_" is null
+	at net.minecraft.network.FriendlyByteBuf.m_130077_(FriendlyByteBuf.java:371) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.protocol.game.ClientboundChatPacket.m_5779_(ClientboundChatPacket.java:31) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at net.minecraft.network.Connection.m_178303_(Connection.java:214) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:203) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:469) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[17May2023 02:04:16.269] [Netty Server IO #6/ERROR] [net.minecraft.network.PacketEncoder/]: Error receiving packet 15
+java.lang.NullPointerException: Cannot invoke "java.util.UUID.getMostSignificantBits()" because "p_130078_" is null
+	at net.minecraft.network.FriendlyByteBuf.m_130077_(FriendlyByteBuf.java:371) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.protocol.game.ClientboundChatPacket.m_5779_(ClientboundChatPacket.java:31) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:45) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.PacketEncoder.encode(PacketEncoder.java:14) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:709) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:792) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:702) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:110) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:717) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:764) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:790) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:758) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:808) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at net.minecraft.network.Connection.m_178303_(Connection.java:214) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.Connection.m_129520_(Connection.java:200) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.Connection.m_129514_(Connection.java:183) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9831_(ServerGamePacketListenerImpl.java:1078) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_141995_(ServerGamePacketListenerImpl.java:1073) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.server.level.ServerPlayer.lambda$sendMessage$10(ServerPlayer.java:1244) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at net.minecraft.network.Connection.m_178303_(Connection.java:216) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at net.minecraft.network.Connection.lambda$sendPacket$8(Connection.java:203) ~[server-1.18.2-20220404.173914-srg.jar%2389!/:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:164) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:469) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:500) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) [netty-all-4.1.68.Final.jar%2329!/:4.1.68.Final]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[17May2023 02:04:21.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Orlandisimo lost connection: Disconnected
+[17May2023 02:04:21.672] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Orlandisimo left the game
+[17May2023 02:04:21.689] [Server thread/INFO] [voicechat/]: Disconnecting client Orlandisimo
+[17May2023 02:05:27.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS moved too quickly! 68.91829762653663,1.0,66.62862555250365
+[17May2023 02:06:15.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XTACISSS lost connection: Disconnected
+[17May2023 02:06:15.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XTACISSS left the game
+[17May2023 02:06:15.856] [Server thread/INFO] [voicechat/]: Disconnecting client XTACISSS
+[17May2023 02:07:18.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17May2023 02:07:18.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17May2023 02:07:18.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17May2023 02:07:18.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17May2023 02:07:19.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17May2023 02:07:19.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[17May2023 02:07:19.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[17May2023 02:07:19.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17May2023 02:07:19.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17May2023 02:07:19.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17May2023 02:07:19.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[17May2023 02:07:19.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[17May2023 02:07:19.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17May2023 02:07:19.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

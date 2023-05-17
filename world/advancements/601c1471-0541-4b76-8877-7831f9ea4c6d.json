@@ -485,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-05-17 00:51:11 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ace_of_spades": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
@@ -554,6 +560,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2023-05-17 01:26:36 -0400"
     },
     "done": true
   },
@@ -640,10 +652,12 @@
       "minecraft:spider": "2023-05-11 00:30:05 -0400",
       "minecraft:piglin_brute": "2023-05-15 01:09:55 -0400",
       "minecraft:creeper": "2023-05-11 00:19:05 -0400",
+      "minecraft:evoker": "2023-05-17 01:07:46 -0400",
       "minecraft:phantom": "2023-05-11 00:23:00 -0400",
       "minecraft:zombified_piglin": "2023-05-16 00:58:59 -0400",
       "minecraft:witch": "2023-05-14 23:44:11 -0400",
       "minecraft:wither_skeleton": "2023-05-11 03:26:18 -0400",
+      "minecraft:cave_spider": "2023-05-17 01:12:15 -0400",
       "minecraft:piglin": "2023-05-15 01:09:32 -0400",
       "minecraft:enderman": "2023-05-11 03:10:48 -0400",
       "minecraft:endermite": "2023-05-14 23:24:16 -0400",
@@ -674,6 +688,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2023-05-10 21:39:21 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/warding_pearl": {
+    "criteria": {
+      "has_item": "2023-05-17 01:35:36 -0400"
     },
     "done": true
   },
@@ -725,9 +745,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:33:47 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2023-05-17 01:33:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2023-05-12 00:50:14 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2023-05-17 01:33:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2023-05-17 01:00:01 -0400"
     },
     "done": true
   },
@@ -764,6 +808,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2023-05-10 21:39:19 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:33:47 -0400"
     },
     "done": true
   },
@@ -989,6 +1039,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-05-17 02:04:50 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:33:47 -0400"
+    },
+    "done": true
+  },
   "rottencreatures:recipes/rottencreatures.rottencreatures/corrupted_wart": {
     "criteria": {
       "has_nether_wart": "2023-05-10 21:50:36 -0400"
@@ -1046,6 +1108,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-05-15 00:15:08 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2023-05-17 01:21:50 -0400"
     },
     "done": true
   },
@@ -1118,6 +1186,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2023-05-17 01:33:47 -0400"
     },
     "done": true
   },
@@ -1307,6 +1381,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2023-05-17 01:00:01 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2023-05-15 00:00:12 -0400"
@@ -1405,6 +1485,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2023-05-17 01:07:15 -0400",
       "minecraft:sunflower_plains": "2023-05-11 00:55:24 -0400",
       "minecraft:birch_forest": "2023-05-10 23:53:18 -0400",
       "minecraft:windswept_hills": "2023-05-11 00:34:59 -0400",
@@ -1622,6 +1703,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:33:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2023-05-10 21:51:59 -0400",
@@ -1828,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-05-17 02:03:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2023-05-11 02:02:24 -0400"
@@ -1885,6 +1978,12 @@
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2023-05-11 03:12:49 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2023-05-17 01:33:47 -0400"
     },
     "done": true
   },
@@ -2140,6 +2239,7 @@
       "cooked_beef": "2023-05-10 21:41:46 -0400",
       "porkchop": "2023-05-11 01:51:26 -0400",
       "bread": "2023-05-11 02:15:02 -0400",
+      "golden_apple": "2023-05-17 01:11:49 -0400",
       "golden_carrot": "2023-05-10 21:39:51 -0400",
       "carrot": "2023-05-11 00:30:32 -0400"
     },
@@ -2391,9 +2491,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2023-05-17 00:48:22 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/awm": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:33:47 -0400"
     },
     "done": true
   },
@@ -2637,6 +2749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-05-17 01:37:42 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2023-05-15 01:00:14 -0400"
@@ -2822,6 +2940,12 @@
   "adorn:recipes/stone_ladder": {
     "criteria": {
       "has_stone": "2023-05-14 23:47:17 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2023-05-17 01:33:47 -0400"
     },
     "done": true
   },
@@ -3287,6 +3411,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2023-05-17 01:04:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2023-05-10 21:39:22 -0400"
@@ -3307,13 +3437,20 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everdawn": "2023-05-15 01:17:01 -0400"
+      "enter_everdawn": "2023-05-15 01:17:01 -0400",
+      "enter_everbright": "2023-05-17 01:26:36 -0400"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2023-05-10 21:39:21 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2023-05-17 01:07:28 -0400"
     },
     "done": true
   },
@@ -3687,6 +3824,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2023-05-15 01:20:37 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/diopside_block": {
+    "criteria": {
+      "has_item": "2023-05-17 01:33:47 -0400"
     },
     "done": true
   },

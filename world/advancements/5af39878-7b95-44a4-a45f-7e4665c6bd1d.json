@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2023-05-17 01:04:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2023-05-10 22:06:25 -0400"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2023-05-17 01:41:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2023-05-14 23:00:47 -0400"
@@ -521,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2023-05-17 01:11:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2023-05-11 02:29:39 -0400"
@@ -542,6 +560,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2023-05-16 22:26:25 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2023-05-17 01:39:16 -0400"
     },
     "done": true
   },
@@ -761,6 +785,12 @@
     },
     "done": true
   },
+  "adorn:recipes/stone_brick_post": {
+    "criteria": {
+      "has_stone_bricks": "2023-05-17 01:11:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_chiseled_quartz_block": "2023-05-14 23:00:43 -0400"
@@ -776,6 +806,12 @@
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:39:16 -0400"
     },
     "done": true
   },
@@ -1275,6 +1311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2023-05-17 01:16:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2023-05-11 00:01:46 -0400"
@@ -1344,6 +1386,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2023-05-12 02:58:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-05-17 01:11:50 -0400"
     },
     "done": true
   },
@@ -1419,6 +1467,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2023-05-17 01:39:16 -0400"
+    },
+    "done": true
+  },
   "paraglider:recipes/paraglider/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2023-05-04 20:34:12 -0400"
@@ -1467,6 +1521,12 @@
     },
     "done": true
   },
+  "adorn:recipes/stone_brick_chimney": {
+    "criteria": {
+      "has_key_item_0": "2023-05-17 01:11:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2023-05-11 00:01:48 -0400"
@@ -1506,6 +1566,12 @@
   "dungeons_arise:find_abandoned_temple": {
     "criteria": {
       "location0": "2023-05-14 23:58:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2023-05-17 01:11:50 -0400"
     },
     "done": true
   },
@@ -1626,6 +1692,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2023-05-16 17:16:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-05-17 01:11:50 -0400"
     },
     "done": true
   },
@@ -1821,6 +1893,12 @@
   "additionalguns:recipes/additionalguns/awm": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:39:16 -0400"
     },
     "done": true
   },
@@ -2082,6 +2160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-05-17 01:41:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2023-05-11 02:01:05 -0400"
@@ -2160,6 +2244,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2023-05-17 01:39:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-05-04 21:59:34 -0400"
@@ -2175,6 +2265,18 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2023-05-16 01:02:48 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_carabeef_from_smoking_carabeef": {
+    "criteria": {
+      "has_item": "2023-05-17 01:28:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-05-17 01:11:50 -0400"
     },
     "done": true
   },
@@ -2490,6 +2592,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2023-05-17 01:07:23 -0400"
+    },
+    "done": true
+  },
   "adorn:recipes/birch_platform": {
     "criteria": {
       "has_slab": "2023-05-12 19:06:06 -0400"
@@ -2749,6 +2857,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/diopside_block": {
+    "criteria": {
+      "has_item": "2023-05-17 01:39:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
@@ -2875,6 +2989,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2023-05-17 01:41:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2023-05-11 03:33:06 -0400"
@@ -2989,6 +3109,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_misc/cooked_carabeef_from_campfire_cooking_carabeef": {
+    "criteria": {
+      "has_item": "2023-05-17 01:28:03 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2023-05-11 00:59:00 -0400"
@@ -3010,6 +3136,12 @@
   "mcwfurnitures:recipes/warped": {
     "criteria": {
       "has_planks": "2023-05-04 20:33:37 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-05-17 01:41:53 -0400"
     },
     "done": true
   },
@@ -3247,6 +3379,12 @@
     },
     "done": true
   },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2023-05-17 01:26:44 -0400"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_combat/starlit_spear": {
     "criteria": {
       "has_item": "2023-05-15 01:16:30 -0400"
@@ -3419,9 +3557,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:39:16 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2023-05-17 01:39:16 -0400"
     },
     "done": true
   },
@@ -3452,6 +3602,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:39:16 -0400"
     },
     "done": true
   },
@@ -3728,6 +3884,18 @@
   "adorn:recipes/stone_step": {
     "criteria": {
       "has_slab": "2023-05-11 22:54:25 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2023-05-17 01:39:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-05-17 01:41:53 -0400"
     },
     "done": true
   },
@@ -4143,6 +4311,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2023-05-17 01:39:16 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_small": {
     "criteria": {
       "has_gunpowder": "2023-05-10 22:00:57 -0400"
@@ -4158,6 +4332,12 @@
   "dungeons_arise:find_infested_temple_map": {
     "criteria": {
       "find_map": "2023-05-16 22:14:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2023-05-17 01:16:20 -0400"
     },
     "done": true
   },
@@ -4858,6 +5038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-05-17 01:41:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-05-11 02:01:05 -0400"
@@ -4945,6 +5131,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/cooked_carabeef_from_smelting_carabeef": {
+    "criteria": {
+      "has_item": "2023-05-17 01:28:03 -0400"
     },
     "done": true
   },
@@ -5091,6 +5283,12 @@
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2023-05-11 03:10:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-05-17 01:11:50 -0400"
     },
     "done": true
   },
@@ -5280,6 +5478,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_dungeon/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-05-17 01:41:53 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/casing_long": {
     "criteria": {
       "has_iron_nugget": "2023-05-12 16:28:15 -0400"
@@ -5414,9 +5618,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everdawn": "2023-05-15 01:17:01 -0400"
+      "enter_everdawn": "2023-05-15 01:17:01 -0400",
+      "enter_everbright": "2023-05-17 01:26:44 -0400"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/tools/compass": {
     "criteria": {
