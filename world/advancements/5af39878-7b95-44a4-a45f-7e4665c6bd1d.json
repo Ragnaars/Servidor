@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-05-16 22:26:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2023-05-10 22:01:50 -0400"
@@ -224,6 +230,12 @@
   "securitycraft:recipes/securitycraft/display_case": {
     "criteria": {
       "has_item_frame": "2023-05-16 19:10:27 -0400"
+    },
+    "done": true
+  },
+  "adorn:recipes/cyan_table_lamp": {
+    "criteria": {
+      "has_carpet": "2023-05-16 22:26:23 -0400"
     },
     "done": true
   },
@@ -467,6 +479,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2023-05-16 22:22:07 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/m1911": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
@@ -521,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-05-16 22:26:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2023-05-11 00:46:59 -0400"
@@ -554,6 +578,18 @@
   "additionalguns:recipes/additionalguns/angled_grip": {
     "criteria": {
       "has_gray_wool": "2023-05-11 00:01:46 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/free_soul": {
+    "criteria": {
+      "coded_trigger": "2023-05-16 21:47:07 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2023-05-16 21:07:16 -0400"
     },
     "done": true
   },
@@ -1497,6 +1533,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2023-05-16 21:48:17 -0400"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2023-05-12 02:26:38 -0400"
@@ -1638,6 +1680,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2023-05-15 00:11:36 -0400"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_dark_marble": {
+    "criteria": {
+      "has_ingredient": "2023-05-16 21:07:09 -0400"
     },
     "done": true
   },
@@ -2166,6 +2214,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2023-05-16 22:30:04 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/ssg08": {
     "criteria": {
       "has_iron_ingot": "2023-05-11 02:06:23 -0400"
@@ -2680,6 +2734,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-05-11 02:06:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-05-16 22:26:25 -0400"
     },
     "done": true
   },
@@ -3287,6 +3347,7 @@
       "minecraft:wither_skeleton": "2023-05-10 21:42:50 -0400",
       "minecraft:husk": "2023-05-11 03:37:58 -0400",
       "minecraft:shulker": "2023-05-11 23:04:04 -0400",
+      "minecraft:cave_spider": "2023-05-16 22:25:16 -0400",
       "minecraft:piglin": "2023-05-10 22:01:42 -0400",
       "minecraft:enderman": "2023-05-04 20:45:48 -0400",
       "minecraft:silverfish": "2023-05-12 03:14:02 -0400",
@@ -3559,6 +3620,12 @@
   "adorn:recipes/warped_kitchen_counter": {
     "criteria": {
       "has_planks": "2023-05-16 16:05:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-05-16 22:25:27 -0400"
     },
     "done": true
   },
@@ -3906,6 +3973,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-05-16 22:20:56 -0400",
       "minecraft:taiga": "2023-05-15 00:21:49 -0400",
       "minecraft:sunflower_plains": "2023-05-04 21:17:47 -0400",
       "minecraft:birch_forest": "2023-05-10 23:57:25 -0400",
@@ -3921,6 +3989,7 @@
       "minecraft:forest": "2023-05-10 23:58:12 -0400",
       "minecraft:windswept_forest": "2023-05-10 23:57:27 -0400",
       "minecraft:ocean": "2023-05-04 21:19:29 -0400",
+      "minecraft:old_growth_spruce_taiga": "2023-05-16 22:21:41 -0400",
       "minecraft:windswept_savanna": "2023-05-04 21:18:13 -0400",
       "minecraft:flower_forest": "2023-05-04 21:43:06 -0400",
       "minecraft:old_growth_birch_forest": "2023-05-10 23:55:44 -0400",
@@ -4086,6 +4155,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2023-05-16 22:14:59 -0400"
+    },
+    "done": true
+  },
   "additionalguns:recipes/additionalguns/bullet_special": {
     "criteria": {
       "has_gunpowder": "2023-05-10 22:00:57 -0400"
@@ -4161,6 +4236,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2023-05-11 02:13:04 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2023-05-16 21:48:17 -0400"
     },
     "done": true
   },
@@ -4807,6 +4888,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2023-05-16 21:07:16 -0400"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_cobblestone_slab_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2023-05-15 01:19:26 -0400"
@@ -5229,6 +5316,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2023-05-16 22:14:37 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2023-05-11 23:05:28 -0400"
@@ -5593,6 +5686,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2023-05-12 02:58:29 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_grave_marble": {
+    "criteria": {
+      "has_grave_marble": "2023-05-16 21:07:09 -0400"
     },
     "done": true
   },
