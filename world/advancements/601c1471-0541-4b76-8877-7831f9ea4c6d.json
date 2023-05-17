@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2023-05-17 00:07:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:21 -0400"
@@ -1726,6 +1732,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2023-05-17 00:09:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_chiseled_quartz_block": "2023-05-14 23:01:16 -0400"
@@ -2026,6 +2038,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2023-05-17 00:09:09 -0400"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2023-05-11 02:14:59 -0400"
@@ -2065,6 +2083,12 @@
   "blue_skies:recipes/decorations/furnace_compat": {
     "criteria": {
       "has_item": "2023-05-15 01:20:38 -0400"
+    },
+    "done": true
+  },
+  "thepursuer:adv_win_the_war": {
+    "criteria": {
+      "adv_win_the_war": "2023-05-16 23:54:35 -0400"
     },
     "done": true
   },
@@ -2403,6 +2427,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2023-05-17 00:07:58 -0400"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/long_scope": {
     "criteria": {
       "has_iron_ingot": "2023-05-10 21:39:19 -0400"
@@ -2702,6 +2732,12 @@
   "alexsmobs:recipes/food/cooked_kangaroo_meat": {
     "criteria": {
       "has_items": "2023-05-15 00:54:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-05-17 00:15:47 -0400"
     },
     "done": true
   },
@@ -3480,6 +3516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-05-17 00:15:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2023-05-11 03:12:49 -0400"
@@ -3561,6 +3603,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2023-05-12 02:06:56 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2023-05-17 00:05:03 -0400"
     },
     "done": true
   },
