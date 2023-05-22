@@ -1,629 +1,283 @@
-[21may.2023 00:59:25.930] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.2, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
-[21may.2023 00:59:25.935] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 18.0.2.1 by Oracle Corporation
-[21may.2023 00:59:26.151] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[21may.2023 00:59:26.154] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/gerar/OneDrive/Escritorio/SV%20OG/mods/OptiFine_1.18.2_HD_U_H7.jar%2339!/
-[21may.2023 00:59:26.164] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\gerar\OneDrive\Escritorio\SV OG\mods\OptiFine_1.18.2_HD_U_H7.jar
-[21may.2023 00:59:26.166] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[21may.2023 00:59:26.229] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/gerar/OneDrive/Escritorio/SV%20OG/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[21may.2023 00:59:26.239] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[21may.2023 00:59:26.887] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\gerar\OneDrive\Escritorio\SV OG\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.2\fmlcore-1.18.2-40.2.2.jar is missing mods.toml file
-[21may.2023 00:59:26.893] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\gerar\OneDrive\Escritorio\SV OG\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.2\javafmllanguage-1.18.2-40.2.2.jar is missing mods.toml file
-[21may.2023 00:59:26.910] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\gerar\OneDrive\Escritorio\SV OG\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.2\lowcodelanguage-1.18.2-40.2.2.jar is missing mods.toml file
-[21may.2023 00:59:26.921] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\gerar\OneDrive\Escritorio\SV OG\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.2\mclanguage-1.18.2-40.2.2.jar is missing mods.toml file
-[21may.2023 00:59:27.155] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
-[21may.2023 00:59:27.768] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[21may.2023 00:59:27.788] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 350
-[21may.2023 00:59:28.254] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[21may.2023 00:59:29.509] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[21may.2023 00:59:29.554] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
-[21may.2023 00:59:29.559] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
-[21may.2023 00:59:29.698] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[21may.2023 00:59:29.701] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[21may.2023 00:59:29.745] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
-[21may.2023 00:59:29.755] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
-[21may.2023 00:59:39.776] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[21may.2023 00:59:40.690] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.2, for MC 1.18.2 with MCP 20220404.173914
-[21may.2023 00:59:40.719] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.2 Initialized
-[21may.2023 00:59:40.884] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[21may.2023 00:59:42.252] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[21may.2023 00:59:42.248] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[21may.2023 00:59:42.296] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
-[21may.2023 00:59:42.397] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
-[21may.2023 00:59:42.654] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Spooking you...
-[21may.2023 00:59:48.749] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[21may.2023 00:59:48.753] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[21may.2023 00:59:49.057] [main/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Enhanced Celestials registered: minecraft:sound_event
-[21may.2023 00:59:49.668] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[21may.2023 00:59:49.683] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[21may.2023 00:59:49.697] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
-[21may.2023 00:59:49.697] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
-[21may.2023 00:59:49.698] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
-[21may.2023 00:59:49.735] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
-[21may.2023 00:59:49.736] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
-[21may.2023 00:59:49.745] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\gerar\OneDrive\Escritorio\SV OG\config\mowziesmobs-common.toml is not correct. Correcting
-[21may.2023 00:59:49.746] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.746] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.geomancy_attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.747] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.suns_blessing was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.747] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.suns_blessing.suns_blessing_duration was corrected from null to its default, 60. 
-[21may.2023 00:59:49.747] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.suns_blessing.suns_blessing_attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.747] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.suns_blessing.solar_beam_cost was corrected from null to its default, 5. 
-[21may.2023 00:59:49.748] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.wrought_helm was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.748] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.wrought_helm.armor_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.748] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.wrought_helm.armor_config.damage_reduction was corrected from null to its default, 2. 
-[21may.2023 00:59:49.749] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.wrought_helm.armor_config.toughness was corrected from null to its default, 0.0. 
-[21may.2023 00:59:49.749] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.wrought_helm.breakable was corrected from null to its default, false. 
-[21may.2023 00:59:49.749] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.axe_of_a_thousand_metals was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.749] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.axe_of_a_thousand_metals.tool_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.752] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.axe_of_a_thousand_metals.tool_config.attack_damage was corrected from null to its default, 9.0. 
-[21may.2023 00:59:49.752] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.axe_of_a_thousand_metals.tool_config.attack_speed was corrected from null to its default, 0.8999999761581421. 
-[21may.2023 00:59:49.753] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.axe_of_a_thousand_metals.breakable was corrected from null to its default, false. 
-[21may.2023 00:59:49.755] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.sol_visage was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.755] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.sol_visage.armor_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.756] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.sol_visage.armor_config.damage_reduction was corrected from null to its default, 2. 
-[21may.2023 00:59:49.758] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.sol_visage.armor_config.toughness was corrected from null to its default, 0.0. 
-[21may.2023 00:59:49.761] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.sol_visage.breakable was corrected from null to its default, false. 
-[21may.2023 00:59:49.762] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.ice_crystal was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.763] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.ice_crystal.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.765] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.ice_crystal.breakable was corrected from null to its default, false. 
-[21may.2023 00:59:49.766] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.ice_crystal.durability was corrected from null to its default, 600. 
-[21may.2023 00:59:49.767] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.barakoa_mask was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.768] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.barakoa_mask.armor_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.768] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.barakoa_mask.armor_config.damage_reduction was corrected from null to its default, 1. 
-[21may.2023 00:59:49.769] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.barakoa_mask.armor_config.toughness was corrected from null to its default, 0.0. 
-[21may.2023 00:59:49.772] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.barakoa_spear was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.773] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.barakoa_spear.tool_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.775] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.barakoa_spear.tool_config.attack_damage was corrected from null to its default, 5.0. 
-[21may.2023 00:59:49.777] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.barakoa_spear.tool_config.attack_speed was corrected from null to its default, 1.600000023841858. 
-[21may.2023 00:59:49.778] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.naga_fang_dagger was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.779] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.naga_fang_dagger.tool_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.779] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.naga_fang_dagger.tool_config.attack_damage was corrected from null to its default, 3.0. 
-[21may.2023 00:59:49.782] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.naga_fang_dagger.tool_config.attack_speed was corrected from null to its default, 2.0. 
-[21may.2023 00:59:49.785] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.naga_fang_dagger.poison_duration was corrected from null to its default, 40. 
-[21may.2023 00:59:49.786] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.naga_fang_dagger.backstab_damage_mult was corrected from null to its default, 2.0. 
-[21may.2023 00:59:49.786] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.blowgun was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.787] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.blowgun.poison_duration was corrected from null to its default, 40. 
-[21may.2023 00:59:49.788] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.blowgun.attack_damage was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.788] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.earthbore_gauntlet was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.789] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.earthbore_gauntlet.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.791] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.earthbore_gauntlet.breakable was corrected from null to its default, false. 
-[21may.2023 00:59:49.793] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.earthbore_gauntlet.durability was corrected from null to its default, 400. 
-[21may.2023 00:59:49.798] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.earthbore_gauntlet.tool_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.802] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.earthbore_gauntlet.tool_config.attack_damage was corrected from null to its default, 6.0. 
-[21may.2023 00:59:49.803] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tools_and_abilities.earthbore_gauntlet.tool_config.attack_speed was corrected from null to its default, 1.2000000476837158. 
-[21may.2023 00:59:49.807] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.810] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.812] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.biome_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.813] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.biome_config.biome_type was corrected from null to its default, [SNOWY,!OCEAN,!RIVER,!BEACH,!FOREST]. 
-[21may.2023 00:59:49.816] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.biome_config.biome_whitelist was corrected from null to its default, []. 
-[21may.2023 00:59:49.818] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.biome_config.biome_blacklist was corrected from null to its default, []. 
-[21may.2023 00:59:49.819] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.generation_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.823] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.generation_config.generation_distance was corrected from null to its default, 25. 
-[21may.2023 00:59:49.824] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.generation_config.generation_separation was corrected from null to its default, 8. 
-[21may.2023 00:59:49.825] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.generation_config.height_max was corrected from null to its default, 100.0. 
-[21may.2023 00:59:49.826] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.generation_config.height_min was corrected from null to its default, 50.0. 
-[21may.2023 00:59:49.826] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.generation_config.avoid_structures was corrected from null to its default, [minecraft:villages, minecraft:pillager_outposts]. 
-[21may.2023 00:59:49.828] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.combat_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.834] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.combat_config.health_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.836] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.combat_config.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.837] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.has_boss_bar was corrected from null to its default, true. 
-[21may.2023 00:59:49.837] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.heals_out_of_battle was corrected from null to its default, true. 
-[21may.2023 00:59:49.838] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.frostmaw.stealable_ice_crystal was corrected from null to its default, true. 
-[21may.2023 00:59:49.841] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.842] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.biome_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.843] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.biome_config.biome_type was corrected from null to its default, [SAVANNA]. 
-[21may.2023 00:59:49.843] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.biome_config.biome_whitelist was corrected from null to its default, []. 
-[21may.2023 00:59:49.845] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.biome_config.biome_blacklist was corrected from null to its default, []. 
-[21may.2023 00:59:49.852] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.generation_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.853] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.generation_config.generation_distance was corrected from null to its default, 25. 
-[21may.2023 00:59:49.853] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.generation_config.generation_separation was corrected from null to its default, 8. 
-[21may.2023 00:59:49.855] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.generation_config.height_max was corrected from null to its default, 100.0. 
-[21may.2023 00:59:49.855] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.generation_config.height_min was corrected from null to its default, 50.0. 
-[21may.2023 00:59:49.856] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.generation_config.avoid_structures was corrected from null to its default, [minecraft:villages, minecraft:pillager_outposts]. 
-[21may.2023 00:59:49.857] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.combat_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.857] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.combat_config.health_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.858] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.combat_config.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.859] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.has_boss_bar was corrected from null to its default, true. 
-[21may.2023 00:59:49.860] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.heals_out_of_battle was corrected from null to its default, true. 
-[21may.2023 00:59:49.862] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.trade_which_item was corrected from null to its default, minecraft:gold_block. 
-[21may.2023 00:59:49.864] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barako.trade_how_many was corrected from null to its default, 7. 
-[21may.2023 00:59:49.867] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.868] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.biome_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.869] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.biome_config.biome_type was corrected from null to its default, [!OCEAN]. 
-[21may.2023 00:59:49.873] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.biome_config.biome_whitelist was corrected from null to its default, []. 
-[21may.2023 00:59:49.873] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.biome_config.biome_blacklist was corrected from null to its default, []. 
-[21may.2023 00:59:49.874] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.generation_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.875] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.generation_config.generation_distance was corrected from null to its default, 15. 
-[21may.2023 00:59:49.876] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.generation_config.generation_separation was corrected from null to its default, 5. 
-[21may.2023 00:59:49.878] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.generation_config.height_max was corrected from null to its default, 50.0. 
-[21may.2023 00:59:49.882] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.generation_config.height_min was corrected from null to its default, 20.0. 
-[21may.2023 00:59:49.882] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.generation_config.avoid_structures was corrected from null to its default, []. 
-[21may.2023 00:59:49.883] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.combat_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.884] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.combat_config.health_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.884] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.combat_config.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.888] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.has_boss_bar was corrected from null to its default, true. 
-[21may.2023 00:59:49.889] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.ferrous_wroughtnaut.heals_out_of_battle was corrected from null to its default, true. 
-[21may.2023 00:59:49.889] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.892] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.biome_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.898] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.biome_config.biome_type was corrected from null to its default, [!MUSHROOM]. 
-[21may.2023 00:59:49.901] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.biome_config.biome_whitelist was corrected from null to its default, []. 
-[21may.2023 00:59:49.902] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.biome_config.biome_blacklist was corrected from null to its default, []. 
-[21may.2023 00:59:49.903] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.903] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.spawn_rate was corrected from null to its default, 2. 
-[21may.2023 00:59:49.904] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.min_group_size was corrected from null to its default, 1. 
-[21may.2023 00:59:49.905] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.max_group_size was corrected from null to its default, 1. 
-[21may.2023 00:59:49.905] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.extra_rarity was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.908] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.dimensions was corrected from null to its default, [minecraft:overworld]. 
-[21may.2023 00:59:49.909] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.allowed_blocks was corrected from null to its default, []. 
-[21may.2023 00:59:49.910] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.allowed_block_tags was corrected from null to its default, [minecraft:base_stone_overworld]. 
-[21may.2023 00:59:49.913] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.height_max was corrected from null to its default, 16. 
-[21may.2023 00:59:49.913] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.height_min was corrected from null to its default, -65. 
-[21may.2023 00:59:49.914] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.needs_darkness was corrected from null to its default, true. 
-[21may.2023 00:59:49.915] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.needs_see_sky was corrected from null to its default, false. 
-[21may.2023 00:59:49.915] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.needs_cant_see_sky was corrected from null to its default, true. 
-[21may.2023 00:59:49.915] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.spawn_config.avoid_structures was corrected from null to its default, []. 
-[21may.2023 00:59:49.916] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.combat_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.918] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.combat_config.health_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.919] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.grottol.combat_config.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.927] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.927] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.biome_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.928] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.biome_config.biome_type was corrected from null to its default, [FOREST,MAGICAL,!SNOWY]. 
-[21may.2023 00:59:49.928] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.biome_config.biome_whitelist was corrected from null to its default, [minecraft:dark_forest]. 
-[21may.2023 00:59:49.930] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.biome_config.biome_blacklist was corrected from null to its default, []. 
-[21may.2023 00:59:49.933] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.934] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.spawn_rate was corrected from null to its default, 5. 
-[21may.2023 00:59:49.934] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.min_group_size was corrected from null to its default, 2. 
-[21may.2023 00:59:49.935] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.max_group_size was corrected from null to its default, 4. 
-[21may.2023 00:59:49.936] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.extra_rarity was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.939] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.dimensions was corrected from null to its default, [minecraft:overworld]. 
-[21may.2023 00:59:49.943] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.allowed_blocks was corrected from null to its default, []. 
-[21may.2023 00:59:49.944] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.allowed_block_tags was corrected from null to its default, [minecraft:valid_spawn, minecraft:leaves, minecraft:logs]. 
-[21may.2023 00:59:49.945] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.height_max was corrected from null to its default, -65. 
-[21may.2023 00:59:49.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.height_min was corrected from null to its default, 60. 
-[21may.2023 00:59:49.947] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.needs_darkness was corrected from null to its default, true. 
-[21may.2023 00:59:49.947] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.needs_see_sky was corrected from null to its default, false. 
-[21may.2023 00:59:49.948] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.needs_cant_see_sky was corrected from null to its default, false. 
-[21may.2023 00:59:49.949] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.spawn_config.avoid_structures was corrected from null to its default, []. 
-[21may.2023 00:59:49.950] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.combat_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.954] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.combat_config.health_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.957] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.lantern.combat_config.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.958] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.958] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.biome_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.959] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.biome_config.biome_type was corrected from null to its default, [SAVANNA]. 
-[21may.2023 00:59:49.960] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.biome_config.biome_whitelist was corrected from null to its default, []. 
-[21may.2023 00:59:49.964] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.biome_config.biome_blacklist was corrected from null to its default, []. 
-[21may.2023 00:59:49.964] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:49.965] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.spawn_rate was corrected from null to its default, 5. 
-[21may.2023 00:59:49.965] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.min_group_size was corrected from null to its default, 1. 
-[21may.2023 00:59:49.967] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.max_group_size was corrected from null to its default, 1. 
-[21may.2023 00:59:49.970] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.extra_rarity was corrected from null to its default, 1.0. 
-[21may.2023 00:59:49.972] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.dimensions was corrected from null to its default, [minecraft:overworld]. 
-[21may.2023 00:59:49.974] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.allowed_blocks was corrected from null to its default, []. 
-[21may.2023 00:59:49.977] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.allowed_block_tags was corrected from null to its default, [minecraft:valid_spawn, minecraft:sand]. 
-[21may.2023 00:59:49.980] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.height_max was corrected from null to its default, -65. 
-[21may.2023 00:59:49.982] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.height_min was corrected from null to its default, 60. 
-[21may.2023 00:59:49.982] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.needs_darkness was corrected from null to its default, false. 
-[21may.2023 00:59:49.995] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.needs_see_sky was corrected from null to its default, false. 
-[21may.2023 00:59:50.006] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.needs_cant_see_sky was corrected from null to its default, false. 
-[21may.2023 00:59:50.015] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.spawn_config.avoid_structures was corrected from null to its default, [minecraft:villages, minecraft:pillager_outposts, mowziesmobs:barakoa_villages]. 
-[21may.2023 00:59:50.028] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.combat_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.034] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.combat_config.health_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:50.035] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.barakoa.combat_config.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:50.035] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.036] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.biome_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.036] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.biome_config.biome_type was corrected from null to its default, [BEACH,MOUNTAIN, BEACH,HILLS]. 
-[21may.2023 00:59:50.037] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.biome_config.biome_whitelist was corrected from null to its default, [minecraft:stone_shore]. 
-[21may.2023 00:59:50.038] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.biome_config.biome_blacklist was corrected from null to its default, []. 
-[21may.2023 00:59:50.039] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.039] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.spawn_rate was corrected from null to its default, 15. 
-[21may.2023 00:59:50.042] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.min_group_size was corrected from null to its default, 2. 
-[21may.2023 00:59:50.044] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.max_group_size was corrected from null to its default, 4. 
-[21may.2023 00:59:50.044] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.extra_rarity was corrected from null to its default, 1.0. 
-[21may.2023 00:59:50.046] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.dimensions was corrected from null to its default, [minecraft:overworld]. 
-[21may.2023 00:59:50.047] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.allowed_blocks was corrected from null to its default, []. 
-[21may.2023 00:59:50.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.allowed_block_tags was corrected from null to its default, []. 
-[21may.2023 00:59:50.048] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.height_max was corrected from null to its default, -65. 
-[21may.2023 00:59:50.049] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.height_min was corrected from null to its default, 70. 
-[21may.2023 00:59:50.052] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.needs_darkness was corrected from null to its default, false. 
-[21may.2023 00:59:50.052] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.needs_see_sky was corrected from null to its default, true. 
-[21may.2023 00:59:50.054] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.needs_cant_see_sky was corrected from null to its default, false. 
-[21may.2023 00:59:50.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.spawn_config.avoid_structures was corrected from null to its default, [minecraft:villages, minecraft:pillager_outposts]. 
-[21may.2023 00:59:50.058] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.combat_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.061] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.combat_config.health_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:50.062] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.naga.combat_config.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:50.062] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.063] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.biome_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.064] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.biome_config.biome_type was corrected from null to its default, [JUNGLE]. 
-[21may.2023 00:59:50.064] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.biome_config.biome_whitelist was corrected from null to its default, []. 
-[21may.2023 00:59:50.066] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.biome_config.biome_blacklist was corrected from null to its default, []. 
-[21may.2023 00:59:50.066] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.067] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.spawn_rate was corrected from null to its default, 70. 
-[21may.2023 00:59:50.067] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.min_group_size was corrected from null to its default, 1. 
-[21may.2023 00:59:50.068] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.max_group_size was corrected from null to its default, 4. 
-[21may.2023 00:59:50.069] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.extra_rarity was corrected from null to its default, 1.0. 
-[21may.2023 00:59:50.071] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.dimensions was corrected from null to its default, [minecraft:overworld]. 
-[21may.2023 00:59:50.072] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.allowed_blocks was corrected from null to its default, []. 
-[21may.2023 00:59:50.074] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.allowed_block_tags was corrected from null to its default, [minecraft:valid_spawn, minecraft:leaves, minecraft:logs]. 
-[21may.2023 00:59:50.075] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.height_max was corrected from null to its default, -65. 
-[21may.2023 00:59:50.075] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.height_min was corrected from null to its default, 60. 
-[21may.2023 00:59:50.076] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.needs_darkness was corrected from null to its default, true. 
-[21may.2023 00:59:50.076] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.needs_see_sky was corrected from null to its default, false. 
-[21may.2023 00:59:50.078] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.needs_cant_see_sky was corrected from null to its default, false. 
-[21may.2023 00:59:50.078] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.spawn_config.avoid_structures was corrected from null to its default, [minecraft:villages, minecraft:pillager_outposts]. 
-[21may.2023 00:59:50.083] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.combat_config was corrected from null to its default, SimpleCommentedConfig:{}. 
-[21may.2023 00:59:50.084] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.combat_config.health_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:50.085] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key mobs.foliaath.combat_config.attack_multiplier was corrected from null to its default, 1.0. 
-[21may.2023 00:59:50.162] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:biome_dictionary
-[21may.2023 00:59:50.203] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:loot_table_alias
-[21may.2023 00:59:50.277] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:data_handler_type
-[21may.2023 00:59:50.284] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:dynamic_spawner
-[21may.2023 00:59:50.287] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
-[21may.2023 00:59:50.360] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered organics:stone_forest to [structure_gel:neutral_temp]
-[21may.2023 00:59:50.373] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered organics:hoaky_forest to [structure_gel:wooded, structure_gel:neutral_temp]
-[21may.2023 00:59:50.386] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\gerar\OneDrive\Escritorio\SV OG\config\rottencreatures-common.toml is not correct. Correcting
-[21may.2023 00:59:50.392] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
-[21may.2023 00:59:50.426] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[21may.2023 00:59:50.471] [modloading-worker-0/INFO] [ring_of_teleport/]: RingOfTeleport common setup
-[21may.2023 00:59:50.526] [modloading-worker-0/INFO] [voicechat/]: Compatibility version 17
-[21may.2023 00:59:50.530] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Summoning a hidebehind to eat you...
-[21may.2023 00:59:50.812] [modloading-worker-0/INFO] [voicechat/]: Loading plugins
-[21may.2023 00:59:50.845] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[21may.2023 00:59:50.890] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[21may.2023 00:59:50.902] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
-[21may.2023 00:59:50.893] [modloading-worker-0/INFO] [voicechat/]: Loaded 0 plugin(s)
-[21may.2023 00:59:51.001] [modloading-worker-0/INFO] [voicechat/]: Initializing plugins
-[21may.2023 00:59:51.015] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[21may.2023 00:59:51.042] [modloading-worker-0/INFO] [voicechat/]: Initialized 0 plugin(s)
-[21may.2023 00:59:51.224] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
-[21may.2023 00:59:51.240] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
-[21may.2023 00:59:51.277] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
-[21may.2023 00:59:51.296] [main/INFO] [journeymap/]: Initializing Packet Registries
-[21may.2023 00:59:51.345] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
-[21may.2023 00:59:51.346] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
-[21may.2023 00:59:51.377] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.PotionEffect as a FluidEffect for fluid.travelersbackpack.potion_fluid with the ID 2
-[21may.2023 00:59:51.384] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.MilkEffect as a FluidEffect for Milk with the ID 3
-[21may.2023 00:59:51.500] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[21may.2023 00:59:51.601] [modloading-worker-0/INFO] [ring_of_teleport/]: Hello world from RingOfTeleport
-[21may.2023 00:59:51.601] [modloading-worker-0/INFO] [ring_of_teleport/]: RingOfTeleport IMC
-[21may.2023 00:59:51.665] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[21may.2023 00:59:51.672] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[21may.2023 00:59:51.726] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
-[21may.2023 00:59:51.760] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
-[21may.2023 00:59:52.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.12 Target: null
-[21may.2023 00:59:52.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cgm
-[21may.2023 00:59:53.021] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.3 Target: 1.3.3
-[21may.2023 00:59:53.021] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[21may.2023 00:59:53.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.5 Target: 5.9.7
-[21may.2023 00:59:53.563] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[21may.2023 00:59:53.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 7.1.30 Target: 7.1.33
-[21may.2023 00:59:53.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Starting version check at https://raw.githubusercontent.com/HaloOfBlocks/VersionChecker/main/additionalguns/update.json
-[21may.2023 00:59:54.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Found status: BETA Current: 0.8.2 Target: 0.8.2
-[21may.2023 00:59:54.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21may.2023 00:59:54.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.2 Target: 40.2.4
-[21may.2023 00:59:54.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
-[21may.2023 00:59:55.905] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21may.2023 00:59:56.275] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mowziesmobs:painted_acacia Expected: 898 Got: 3004
-[21may.2023 00:59:56.281] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mowziesmobs:painted_acacia_slab Expected: 899 Got: 3005
-[21may.2023 00:59:56.284] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: mowziesmobs:thatch_block Expected: 900 Got: 3006
-[21may.2023 00:59:56.296] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:foliaath_seed Expected: 1101 Got: 4203
-[21may.2023 00:59:56.297] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:mob_remover Expected: 1102 Got: 4204
-[21may.2023 00:59:56.297] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:wrought_axe Expected: 1103 Got: 4205
-[21may.2023 00:59:56.298] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:wrought_helmet Expected: 1104 Got: 4206
-[21may.2023 00:59:56.298] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoa_mask_fury Expected: 1105 Got: 4207
-[21may.2023 00:59:56.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoa_mask_fear Expected: 1106 Got: 4208
-[21may.2023 00:59:56.299] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoa_mask_rage Expected: 1107 Got: 4209
-[21may.2023 00:59:56.300] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoa_mask_bliss Expected: 1108 Got: 4210
-[21may.2023 00:59:56.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoa_mask_misery Expected: 1109 Got: 4211
-[21may.2023 00:59:56.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoa_mask_faith Expected: 1110 Got: 4212
-[21may.2023 00:59:56.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barako_mask Expected: 1111 Got: 4213
-[21may.2023 00:59:56.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:dart Expected: 1112 Got: 4214
-[21may.2023 00:59:56.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:spear Expected: 1113 Got: 4215
-[21may.2023 00:59:56.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:sunblock_staff Expected: 1114 Got: 4216
-[21may.2023 00:59:56.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:blowgun Expected: 1115 Got: 4217
-[21may.2023 00:59:56.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:grant_suns_blessing Expected: 1116 Got: 4218
-[21may.2023 00:59:56.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:ice_crystal Expected: 1117 Got: 4219
-[21may.2023 00:59:56.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:earth_talisman Expected: 1118 Got: 4220
-[21may.2023 00:59:56.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:captured_grottol Expected: 1119 Got: 4221
-[21may.2023 00:59:56.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:glowing_jelly Expected: 1120 Got: 4222
-[21may.2023 00:59:56.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:naga_fang Expected: 1121 Got: 4223
-[21may.2023 00:59:56.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:naga_fang_dagger Expected: 1122 Got: 4224
-[21may.2023 00:59:56.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:earthbore_gauntlet Expected: 1123 Got: 4225
-[21may.2023 00:59:56.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:logo Expected: 1124 Got: 4226
-[21may.2023 00:59:56.327] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:music_disc_petiole Expected: 1125 Got: 4227
-[21may.2023 00:59:56.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:foliaath_spawn_egg Expected: 1126 Got: 4228
-[21may.2023 00:59:56.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut_spawn_egg Expected: 1127 Got: 4229
-[21may.2023 00:59:56.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoa_spawn_egg Expected: 1128 Got: 4230
-[21may.2023 00:59:56.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoana_spawn_egg Expected: 1129 Got: 4231
-[21may.2023 00:59:56.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barakoa_sunblocker_spawn_egg Expected: 1130 Got: 4232
-[21may.2023 00:59:56.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:barako_spawn_egg Expected: 1131 Got: 4233
-[21may.2023 00:59:56.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:frostmaw_spawn_egg Expected: 1132 Got: 4234
-[21may.2023 00:59:56.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:grottol_spawn_egg Expected: 1133 Got: 4235
-[21may.2023 00:59:56.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:lantern_spawn_egg Expected: 1134 Got: 4236
-[21may.2023 00:59:56.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:naga_spawn_egg Expected: 1135 Got: 4237
-[21may.2023 00:59:56.340] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:painted_acacia Expected: 1136 Got: 4238
-[21may.2023 00:59:56.340] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:painted_acacia_slab Expected: 1137 Got: 4239
-[21may.2023 00:59:56.343] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: mowziesmobs:thatch_block Expected: 1138 Got: 4240
-[21may.2023 00:59:56.343] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: mowziesmobs:suns_blessing Expected: 0 Got: 111
-[21may.2023 00:59:56.344] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: mowziesmobs:geomancy Expected: 33 Got: 112
-[21may.2023 00:59:56.345] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: mowziesmobs:frozen Expected: 34 Got: 113
-[21may.2023 00:59:56.345] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: mowziesmobs:poison_resist Expected: 35 Got: 114
-[21may.2023 00:59:56.347] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: mowziesmobs:sunblock Expected: 36 Got: 115
-[21may.2023 00:59:56.348] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:laser Expected: 1438 Got: 1913
-[21may.2023 00:59:56.349] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:sunstrike Expected: 1439 Got: 1914
-[21may.2023 00:59:56.349] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.pre_swing1 Expected: 1440 Got: 1915
-[21may.2023 00:59:56.350] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.pre_swing2 Expected: 1441 Got: 1916
-[21may.2023 00:59:56.353] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.pre_swing3 Expected: 1442 Got: 1917
-[21may.2023 00:59:56.354] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.creak Expected: 1443 Got: 1918
-[21may.2023 00:59:56.355] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.swing1 Expected: 1444 Got: 1919
-[21may.2023 00:59:56.359] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.swing2 Expected: 1445 Got: 1920
-[21may.2023 00:59:56.363] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.swing3 Expected: 1446 Got: 1921
-[21may.2023 00:59:56.363] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.shout1 Expected: 1447 Got: 1922
-[21may.2023 00:59:56.364] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.shout2 Expected: 1448 Got: 1923
-[21may.2023 00:59:56.364] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.shout3 Expected: 1449 Got: 1924
-[21may.2023 00:59:56.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.pull1 Expected: 1450 Got: 1925
-[21may.2023 00:59:56.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.pull2 Expected: 1451 Got: 1926
-[21may.2023 00:59:56.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.pull5 Expected: 1452 Got: 1927
-[21may.2023 00:59:56.367] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.release2 Expected: 1453 Got: 1928
-[21may.2023 00:59:56.368] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.whoosh Expected: 1454 Got: 1929
-[21may.2023 00:59:56.369] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.hurt1 Expected: 1455 Got: 1930
-[21may.2023 00:59:56.369] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.scream Expected: 1456 Got: 1931
-[21may.2023 00:59:56.369] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.grunt1 Expected: 1457 Got: 1932
-[21may.2023 00:59:56.372] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.grunt2 Expected: 1458 Got: 1933
-[21may.2023 00:59:56.373] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.grunt3 Expected: 1459 Got: 1934
-[21may.2023 00:59:56.375] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.ambient Expected: 1460 Got: 1935
-[21may.2023 00:59:56.375] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.step Expected: 1461 Got: 1936
-[21may.2023 00:59:56.378] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.undamaged Expected: 1462 Got: 1937
-[21may.2023 00:59:56.384] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.axe_land Expected: 1463 Got: 1938
-[21may.2023 00:59:56.385] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:wroughtnaut.axe_hit Expected: 1464 Got: 1939
-[21may.2023 00:59:56.385] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.inhale Expected: 1465 Got: 1940
-[21may.2023 00:59:56.386] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.blowdart Expected: 1466 Got: 1941
-[21may.2023 00:59:56.386] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.battlecry Expected: 1467 Got: 1942
-[21may.2023 00:59:56.396] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.battlecry2 Expected: 1468 Got: 1943
-[21may.2023 00:59:56.396] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.swing Expected: 1469 Got: 1944
-[21may.2023 00:59:56.396] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.emerge Expected: 1470 Got: 1945
-[21may.2023 00:59:56.396] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.retract Expected: 1471 Got: 1946
-[21may.2023 00:59:56.397] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.hurt Expected: 1472 Got: 1947
-[21may.2023 00:59:56.398] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.die Expected: 1473 Got: 1948
-[21may.2023 00:59:56.399] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.shout Expected: 1474 Got: 1949
-[21may.2023 00:59:56.401] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.talk1 Expected: 1475 Got: 1950
-[21may.2023 00:59:56.402] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.talk2 Expected: 1476 Got: 1951
-[21may.2023 00:59:56.402] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.talk3 Expected: 1477 Got: 1952
-[21may.2023 00:59:56.402] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.talk4 Expected: 1478 Got: 1953
-[21may.2023 00:59:56.403] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.talk5 Expected: 1479 Got: 1954
-[21may.2023 00:59:56.403] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.talk6 Expected: 1480 Got: 1955
-[21may.2023 00:59:56.405] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.talk7 Expected: 1481 Got: 1956
-[21may.2023 00:59:56.405] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.angry1 Expected: 1482 Got: 1957
-[21may.2023 00:59:56.414] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.angry2 Expected: 1483 Got: 1958
-[21may.2023 00:59:56.415] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.angry3 Expected: 1484 Got: 1959
-[21may.2023 00:59:56.416] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.angry4 Expected: 1485 Got: 1960
-[21may.2023 00:59:56.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.angry5 Expected: 1486 Got: 1961
-[21may.2023 00:59:56.417] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.angry6 Expected: 1487 Got: 1962
-[21may.2023 00:59:56.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.healstart1 Expected: 1488 Got: 1963
-[21may.2023 00:59:56.418] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.healstart2 Expected: 1489 Got: 1964
-[21may.2023 00:59:56.426] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.healstart3 Expected: 1490 Got: 1965
-[21may.2023 00:59:56.427] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.teleport1 Expected: 1491 Got: 1966
-[21may.2023 00:59:56.429] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.teleport2 Expected: 1492 Got: 1967
-[21may.2023 00:59:56.430] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.teleport3 Expected: 1493 Got: 1968
-[21may.2023 00:59:56.432] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barakoa.healloop Expected: 1494 Got: 1969
-[21may.2023 00:59:56.433] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.belly Expected: 1495 Got: 1970
-[21may.2023 00:59:56.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.burst Expected: 1496 Got: 1971
-[21may.2023 00:59:56.434] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.scream Expected: 1497 Got: 1972
-[21may.2023 00:59:56.435] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:supernova.start Expected: 1498 Got: 1973
-[21may.2023 00:59:56.437] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:supernova.blackhole Expected: 1499 Got: 1974
-[21may.2023 00:59:56.438] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:supernova.end Expected: 1500 Got: 1975
-[21may.2023 00:59:56.439] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.attack Expected: 1501 Got: 1976
-[21may.2023 00:59:56.441] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.hurt Expected: 1502 Got: 1977
-[21may.2023 00:59:56.442] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.die Expected: 1503 Got: 1978
-[21may.2023 00:59:56.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.bless Expected: 1504 Got: 1979
-[21may.2023 00:59:56.443] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.talk1 Expected: 1505 Got: 1980
-[21may.2023 00:59:56.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.talk2 Expected: 1506 Got: 1981
-[21may.2023 00:59:56.444] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.talk3 Expected: 1507 Got: 1982
-[21may.2023 00:59:56.445] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.talk4 Expected: 1508 Got: 1983
-[21may.2023 00:59:56.445] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.talk5 Expected: 1509 Got: 1984
-[21may.2023 00:59:56.446] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.talk6 Expected: 1510 Got: 1985
-[21may.2023 00:59:56.446] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.angry1 Expected: 1511 Got: 1986
-[21may.2023 00:59:56.447] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.angry2 Expected: 1512 Got: 1987
-[21may.2023 00:59:56.447] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.angry3 Expected: 1513 Got: 1988
-[21may.2023 00:59:56.448] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.angry4 Expected: 1514 Got: 1989
-[21may.2023 00:59:56.448] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.angry5 Expected: 1515 Got: 1990
-[21may.2023 00:59:56.449] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:barako.angry6 Expected: 1516 Got: 1991
-[21may.2023 00:59:56.453] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.grunt Expected: 1517 Got: 1992
-[21may.2023 00:59:56.453] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.rustle Expected: 1518 Got: 1993
-[21may.2023 00:59:56.461] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.emerge Expected: 1519 Got: 1994
-[21may.2023 00:59:56.462] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.retreat Expected: 1520 Got: 1995
-[21may.2023 00:59:56.462] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.pant1 Expected: 1521 Got: 1996
-[21may.2023 00:59:56.463] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.pant2 Expected: 1522 Got: 1997
-[21may.2023 00:59:56.463] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.bite1 Expected: 1523 Got: 1998
-[21may.2023 00:59:56.463] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.hurt Expected: 1524 Got: 1999
-[21may.2023 00:59:56.465] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.die Expected: 1525 Got: 2000
-[21may.2023 00:59:56.466] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:foliaath.baby.eat Expected: 1526 Got: 2001
-[21may.2023 00:59:56.467] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.roar Expected: 1527 Got: 2002
-[21may.2023 00:59:56.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.die Expected: 1528 Got: 2003
-[21may.2023 00:59:56.468] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.whoosh Expected: 1529 Got: 2004
-[21may.2023 00:59:56.469] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.icebreath Expected: 1530 Got: 2005
-[21may.2023 00:59:56.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.icebreathstart Expected: 1531 Got: 2006
-[21may.2023 00:59:56.471] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.iceballcharge Expected: 1532 Got: 2007
-[21may.2023 00:59:56.472] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.iceballshoot Expected: 1533 Got: 2008
-[21may.2023 00:59:56.472] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.frozencrash Expected: 1534 Got: 2009
-[21may.2023 00:59:56.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.step Expected: 1535 Got: 2010
-[21may.2023 00:59:56.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.land Expected: 1536 Got: 2011
-[21may.2023 00:59:56.473] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.attack1 Expected: 1537 Got: 2012
-[21may.2023 00:59:56.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.attack2 Expected: 1538 Got: 2013
-[21may.2023 00:59:56.474] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.attack3 Expected: 1539 Got: 2014
-[21may.2023 00:59:56.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.attack4 Expected: 1540 Got: 2015
-[21may.2023 00:59:56.475] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.breath1 Expected: 1541 Got: 2016
-[21may.2023 00:59:56.477] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.breath2 Expected: 1542 Got: 2017
-[21may.2023 00:59:56.479] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.living1 Expected: 1543 Got: 2018
-[21may.2023 00:59:56.481] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.living2 Expected: 1544 Got: 2019
-[21may.2023 00:59:56.484] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:frostmaw.wakeup Expected: 1545 Got: 2020
-[21may.2023 00:59:56.485] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:grottol.step Expected: 1546 Got: 2021
-[21may.2023 00:59:56.485] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:grottol.undamaged Expected: 1547 Got: 2022
-[21may.2023 00:59:56.486] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:grottol.burrow Expected: 1548 Got: 2023
-[21may.2023 00:59:56.486] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:grottol.die Expected: 1549 Got: 2024
-[21may.2023 00:59:56.487] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:lantern.pop Expected: 1550 Got: 2025
-[21may.2023 00:59:56.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:lantern.puff Expected: 1551 Got: 2026
-[21may.2023 00:59:56.488] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.acidcharge Expected: 1552 Got: 2027
-[21may.2023 00:59:56.492] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.acidhit Expected: 1553 Got: 2028
-[21may.2023 00:59:56.492] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.acidspit Expected: 1554 Got: 2029
-[21may.2023 00:59:56.493] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.acidspithiss Expected: 1555 Got: 2030
-[21may.2023 00:59:56.495] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.flap1 Expected: 1556 Got: 2031
-[21may.2023 00:59:56.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.growl1 Expected: 1557 Got: 2032
-[21may.2023 00:59:56.496] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.growl2 Expected: 1558 Got: 2033
-[21may.2023 00:59:56.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.growl3 Expected: 1559 Got: 2034
-[21may.2023 00:59:56.497] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.grunt1 Expected: 1560 Got: 2035
-[21may.2023 00:59:56.499] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.grunt2 Expected: 1561 Got: 2036
-[21may.2023 00:59:56.500] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.grunt3 Expected: 1562 Got: 2037
-[21may.2023 00:59:56.501] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.roar1 Expected: 1563 Got: 2038
-[21may.2023 00:59:56.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.roar2 Expected: 1564 Got: 2039
-[21may.2023 00:59:56.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.roar3 Expected: 1565 Got: 2040
-[21may.2023 00:59:56.502] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.roar4 Expected: 1566 Got: 2041
-[21may.2023 00:59:56.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:naga.swoop Expected: 1567 Got: 2042
-[21may.2023 00:59:56.503] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.smallcrash Expected: 1568 Got: 2043
-[21may.2023 00:59:56.504] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.hitsmall Expected: 1569 Got: 2044
-[21may.2023 00:59:56.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.hitbig Expected: 1570 Got: 2045
-[21may.2023 00:59:56.506] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.breaklarge Expected: 1571 Got: 2046
-[21may.2023 00:59:56.507] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.breaklarge2 Expected: 1572 Got: 2047
-[21may.2023 00:59:56.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.breakmedium Expected: 1573 Got: 2048
-[21may.2023 00:59:56.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.breakmedium2 Expected: 1574 Got: 2049
-[21may.2023 00:59:56.508] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.breakmedium3 Expected: 1575 Got: 2050
-[21may.2023 00:59:56.510] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.hit Expected: 1576 Got: 2051
-[21may.2023 00:59:56.512] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.hitmedium Expected: 1577 Got: 2052
-[21may.2023 00:59:56.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.hitmedium2 Expected: 1578 Got: 2053
-[21may.2023 00:59:56.513] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.rockbreak Expected: 1579 Got: 2054
-[21may.2023 00:59:56.514] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.rockcrash1 Expected: 1580 Got: 2055
-[21may.2023 00:59:56.516] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.rockcrumble Expected: 1581 Got: 2056
-[21may.2023 00:59:56.518] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.rumble1 Expected: 1582 Got: 2057
-[21may.2023 00:59:56.519] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.rumble2 Expected: 1583 Got: 2058
-[21may.2023 00:59:56.521] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.rumble3 Expected: 1584 Got: 2059
-[21may.2023 00:59:56.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.smallrockhit Expected: 1585 Got: 2060
-[21may.2023 00:59:56.522] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.bouldercharge Expected: 1586 Got: 2061
-[21may.2023 00:59:56.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:geomancy.magicchargesmall Expected: 1587 Got: 2062
-[21may.2023 00:59:56.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:misc.groundhit1 Expected: 1588 Got: 2063
-[21may.2023 00:59:56.523] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:misc.groundhit2 Expected: 1589 Got: 2064
-[21may.2023 00:59:56.524] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:music.black_pink Expected: 1590 Got: 2065
-[21may.2023 00:59:56.526] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:music.petiole Expected: 1591 Got: 2066
-[21may.2023 00:59:56.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:music.barako_theme Expected: 1592 Got: 2067
-[21may.2023 00:59:56.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:music.ferrous_wroughtnaut_theme Expected: 1593 Got: 2068
-[21may.2023 00:59:56.528] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: mowziesmobs:music.frostmaw_theme Expected: 1594 Got: 2069
-[21may.2023 00:59:56.529] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:potion: Object did not get ID it asked for. Name: mowziesmobs:poison_resist Expected: 43 Got: 73
-[21may.2023 00:59:56.531] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:potion: Object did not get ID it asked for. Name: mowziesmobs:long_poison_resist Expected: 44 Got: 74
-[21may.2023 00:59:56.532] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:foliaath Expected: 113 Got: 407
-[21may.2023 00:59:56.532] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:baby_foliaath Expected: 114 Got: 408
-[21may.2023 00:59:56.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:ferrous_wroughtnaut Expected: 115 Got: 409
-[21may.2023 00:59:56.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:barakoan_barakoana Expected: 116 Got: 410
-[21may.2023 00:59:56.533] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:barakoan_player Expected: 117 Got: 411
-[21may.2023 00:59:56.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:barakoa_sunblocker_player Expected: 118 Got: 412
-[21may.2023 00:59:56.534] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:barakoaya Expected: 119 Got: 413
-[21may.2023 00:59:56.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:barakoana Expected: 120 Got: 414
-[21may.2023 00:59:56.535] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:barakoa_sunblocker Expected: 121 Got: 415
-[21may.2023 00:59:56.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:barako Expected: 122 Got: 416
-[21may.2023 00:59:56.536] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:frostmaw Expected: 123 Got: 417
-[21may.2023 00:59:56.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:grottol Expected: 124 Got: 418
-[21may.2023 00:59:56.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:lantern Expected: 125 Got: 419
-[21may.2023 00:59:56.537] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:naga Expected: 126 Got: 420
-[21may.2023 00:59:56.538] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:sunstrike Expected: 127 Got: 421
-[21may.2023 00:59:56.541] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:solar_beam Expected: 128 Got: 422
-[21may.2023 00:59:56.542] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:boulder_projectile Expected: 129 Got: 423
-[21may.2023 00:59:56.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:boulder_platform Expected: 130 Got: 424
-[21may.2023 00:59:56.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:pillar Expected: 131 Got: 425
-[21may.2023 00:59:56.543] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:pillar_piece Expected: 132 Got: 426
-[21may.2023 00:59:56.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:axe_attack Expected: 133 Got: 427
-[21may.2023 00:59:56.544] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:ice_breath Expected: 134 Got: 428
-[21may.2023 00:59:56.545] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:ice_ball Expected: 135 Got: 429
-[21may.2023 00:59:56.546] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:frozen_controller Expected: 136 Got: 430
-[21may.2023 00:59:56.547] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:dart Expected: 137 Got: 431
-[21may.2023 00:59:56.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:poison_ball Expected: 138 Got: 432
-[21may.2023 00:59:56.548] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:super_nova Expected: 139 Got: 433
-[21may.2023 00:59:56.550] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:falling_block Expected: 140 Got: 434
-[21may.2023 00:59:56.552] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:block_swapper Expected: 141 Got: 435
-[21may.2023 00:59:56.554] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: mowziesmobs:camera_shake Expected: 142 Got: 436
-[21may.2023 00:59:56.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.4.5 Target: 1.18.2-2.4.8
-[21may.2023 00:59:56.894] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[21may.2023 00:59:57.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
-[21may.2023 00:59:57.463] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
-[21may.2023 00:59:57.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 2.2.1 Target: null
-[21may.2023 00:59:57.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[21may.2023 00:59:57.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.6.4 Target: 7.6.5
-[21may.2023 00:59:57.743] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[21may.2023 00:59:57.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.1.0 Target: null
-[21may.2023 00:59:57.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[21may.2023 00:59:58.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.2 Target: 0.4.2
-[21may.2023 00:59:58.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
-[21may.2023 00:59:58.237] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[21may.2023 23:26:21.834] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.2, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914]
+[21may.2023 23:26:21.840] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 18.0.2.1 by Oracle Corporation
+[21may.2023 23:26:22.229] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[21may.2023 23:26:22.231] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/C:/Users/gerar/OneDrive/Escritorio/SV%20OG/mods/OptiFine_1.18.2_HD_U_H7.jar%2339!/
+[21may.2023 23:26:22.240] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: C:\Users\gerar\OneDrive\Escritorio\SV OG\mods\OptiFine_1.18.2_HD_U_H7.jar
+[21may.2023 23:26:22.243] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[21may.2023 23:26:22.332] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/gerar/OneDrive/Escritorio/SV%20OG/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[21may.2023 23:26:22.342] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[21may.2023 23:26:23.221] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\gerar\OneDrive\Escritorio\SV OG\libraries\net\minecraftforge\fmlcore\1.18.2-40.2.2\fmlcore-1.18.2-40.2.2.jar is missing mods.toml file
+[21may.2023 23:26:23.227] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\gerar\OneDrive\Escritorio\SV OG\libraries\net\minecraftforge\javafmllanguage\1.18.2-40.2.2\javafmllanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[21may.2023 23:26:23.234] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\gerar\OneDrive\Escritorio\SV OG\libraries\net\minecraftforge\lowcodelanguage\1.18.2-40.2.2\lowcodelanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[21may.2023 23:26:23.239] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\gerar\OneDrive\Escritorio\SV OG\libraries\net\minecraftforge\mclanguage\1.18.2-40.2.2\mclanguage-1.18.2-40.2.2.jar is missing mods.toml file
+[21may.2023 23:26:23.436] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 3 dependencies adding them to mods collection
+[21may.2023 23:26:24.125] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[21may.2023 23:26:24.132] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 350
+[21may.2023 23:26:24.665] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[21may.2023 23:26:26.324] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[21may.2023 23:26:26.402] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[21may.2023 23:26:26.410] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[21may.2023 23:26:26.552] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[21may.2023 23:26:26.555] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[21may.2023 23:26:26.616] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[21may.2023 23:26:26.623] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[21may.2023 23:26:39.480] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[21may.2023 23:26:40.164] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.2, for MC 1.18.2 with MCP 20220404.173914
+[21may.2023 23:26:40.243] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.2 Initialized
+[21may.2023 23:26:41.144] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[21may.2023 23:26:42.374] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[21may.2023 23:26:42.477] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[21may.2023 23:26:42.522] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/cdff7a8a5b4f3f218b5f77ef22e66016
+[21may.2023 23:26:42.550] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id whisperwoods:main_channel/773a011a51b630fba84ab824165fbd92
+[21may.2023 23:26:42.618] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Spooking you...
+[21may.2023 23:26:50.253] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[21may.2023 23:26:50.268] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[21may.2023 23:26:50.485] [main/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Enhanced Celestials registered: minecraft:sound_event
+[21may.2023 23:26:51.133] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[21may.2023 23:26:51.135] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[21may.2023 23:26:51.168] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSkeleton
+[21may.2023 23:26:51.174] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedSpider
+[21may.2023 23:26:51.174] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class nonamecrackers2.witherstormmod.common.entity.SickenedZombie from class nonamecrackers2.witherstormmod.common.entity.SickenedCreeper
+[21may.2023 23:26:51.207] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
+[21may.2023 23:26:51.215] [main/INFO] [ModdingLegacy/blue_skies/]: Loading Config: blue_skies-common.toml
+[21may.2023 23:26:51.479] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:biome_dictionary
+[21may.2023 23:26:51.548] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:loot_table_alias
+[21may.2023 23:26:51.578] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:data_handler_type
+[21may.2023 23:26:51.589] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registering data for structure_gel:dynamic_spawner
+[21may.2023 23:26:51.605] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[21may.2023 23:26:51.673] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered organics:stone_forest to [structure_gel:neutral_temp]
+[21may.2023 23:26:51.716] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered warden_and_sculk:sculk_biome to [structure_gel:humid, structure_gel:neutral_temp]
+[21may.2023 23:26:51.717] [main/INFO] [ModdingLegacy/structure_gel/]: [Structure Gel] Registered organics:hoaky_forest to [structure_gel:wooded, structure_gel:neutral_temp]
+[21may.2023 23:26:51.743] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\gerar\OneDrive\Escritorio\SV OG\config\rottencreatures-common.toml is not correct. Correcting
+[21may.2023 23:26:51.744] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
+[21may.2023 23:26:51.758] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\gerar\OneDrive\Escritorio\SV OG\config\warden_and_sculk-common.toml is not correct. Correcting
+[21may.2023 23:26:51.758] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Warden was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21may.2023 23:26:51.765] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Warden.Warden Health was corrected from null to its default, 500. 
+[21may.2023 23:26:51.766] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Warden.Warden Speed was corrected from null to its default, 0.2125. 
+[21may.2023 23:26:51.766] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Warden.Warden Range was corrected from null to its default, 22.0. 
+[21may.2023 23:26:51.767] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Warden.Warden Attack was corrected from null to its default, 30.0. 
+[21may.2023 23:26:51.768] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Warden.Warden Generation was corrected from null to its default, true. 
+[21may.2023 23:26:51.771] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SculkGen was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21may.2023 23:26:51.771] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SculkGen.Sculk Propagation was corrected from null to its default, true. 
+[21may.2023 23:26:51.772] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SculkGen.Sculk Biome was corrected from null to its default, true. 
+[21may.2023 23:26:51.772] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SculkGen.Min Ancient City Generation was corrected from null to its default, -58. 
+[21may.2023 23:26:51.772] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SculkGen.Max Ancient City Generation was corrected from null to its default, -45. 
+[21may.2023 23:26:51.773] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SculkGen.Ancient City Generation was corrected from null to its default, true. 
+[21may.2023 23:26:51.774] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SculkGen.Sculk Blobs was corrected from null to its default, false. 
+[21may.2023 23:26:51.775] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key SculkGen.Sculk Blobs Biomes was corrected from null to its default, [minecraft:plains, minecraft:taiga, minecraft:savanna]. 
+[21may.2023 23:26:51.787] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Effects was corrected from null to its default, SimpleCommentedConfig:{}. 
+[21may.2023 23:26:51.792] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Effects.Darkness Range was corrected from null to its default, 2.8. 
+[21may.2023 23:26:51.811] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Effects.Darkness Speed was corrected from null to its default, 1.0. 
+[21may.2023 23:26:51.814] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Effects.Sculk Charge was corrected from null to its default, 35. 
+[21may.2023 23:26:51.893] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[21may.2023 23:26:51.963] [modloading-worker-0/INFO] [ring_of_teleport/]: RingOfTeleport common setup
+[21may.2023 23:26:52.050] [modloading-worker-0/INFO] [dev.itsmeow.whisperwoods.WhisperwoodsMod/]: Summoning a hidebehind to eat you...
+[21may.2023 23:26:52.040] [modloading-worker-0/INFO] [voicechat/]: Compatibility version 17
+[21may.2023 23:26:52.197] [modloading-worker-0/INFO] [voicechat/]: Loading plugins
+[21may.2023 23:26:52.216] [modloading-worker-0/INFO] [voicechat/]: Loaded 0 plugin(s)
+[21may.2023 23:26:52.216] [modloading-worker-0/INFO] [voicechat/]: Initializing plugins
+[21may.2023 23:26:52.217] [modloading-worker-0/INFO] [voicechat/]: Initialized 0 plugin(s)
+[21may.2023 23:26:52.311] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[21may.2023 23:26:52.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[21may.2023 23:26:52.397] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[21may.2023 23:26:52.396] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Initialized enhancedcelestials network!
+[21may.2023 23:26:52.673] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
+[21may.2023 23:26:52.682] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
+[21may.2023 23:26:52.682] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
+[21may.2023 23:26:52.710] [main/INFO] [journeymap/]: Initializing Packet Registries
+[21may.2023 23:26:52.781] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.WaterEffect as a FluidEffect for Water with the ID 0
+[21may.2023 23:26:52.802] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.LavaEffect as a FluidEffect for Lava with the ID 1
+[21may.2023 23:26:52.804] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.PotionEffect as a FluidEffect for fluid.travelersbackpack.potion_fluid with the ID 2
+[21may.2023 23:26:52.804] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.MilkEffect as a FluidEffect for Milk with the ID 3
+[21may.2023 23:26:52.837] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[21may.2023 23:26:52.863] [modloading-worker-0/INFO] [ring_of_teleport/]: Hello world from RingOfTeleport
+[21may.2023 23:26:52.872] [modloading-worker-0/INFO] [ring_of_teleport/]: RingOfTeleport IMC
+[21may.2023 23:26:52.889] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[21may.2023 23:26:52.946] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[21may.2023 23:26:52.974] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.waila.WailaDataProvider
+[21may.2023 23:26:53.011] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationWaila
+[21may.2023 23:26:53.648] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.12 Target: null
+[21may.2023 23:26:53.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cgm
+[21may.2023 23:26:54.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.3 Target: 1.3.3
+[21may.2023 23:26:54.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[21may.2023 23:26:55.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.5 Target: 5.9.7
+[21may.2023 23:26:55.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[21may.2023 23:26:55.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 7.1.30 Target: 7.1.33
+[21may.2023 23:26:55.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Starting version check at https://raw.githubusercontent.com/HaloOfBlocks/VersionChecker/main/additionalguns/update.json
+[21may.2023 23:26:55.945] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [additionalguns] Found status: BETA Current: 0.8.2 Target: 0.8.2
+[21may.2023 23:26:55.961] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21may.2023 23:26:56.565] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.2 Target: 40.2.4
+[21may.2023 23:26:56.756] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[21may.2023 23:26:57.845] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21may.2023 23:26:58.175] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: warden_and_sculk:sculk_block Expected: 2195 Got: 3007
+[21may.2023 23:26:58.209] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: warden_and_sculk:sculk_catalyst Expected: 2196 Got: 3008
+[21may.2023 23:26:58.216] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: warden_and_sculk:sculk_shrieker Expected: 2197 Got: 3009
+[21may.2023 23:26:58.217] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: warden_and_sculk:sculk_vines Expected: 2198 Got: 3010
+[21may.2023 23:26:58.217] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: warden_and_sculk:reinforced_deepslate Expected: 2199 Got: 3011
+[21may.2023 23:26:58.225] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:warden_spawn_egg Expected: 3230 Got: 4241
+[21may.2023 23:26:58.229] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:echo_shard Expected: 3231 Got: 4242
+[21may.2023 23:26:58.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:recovery_compass Expected: 3232 Got: 4243
+[21may.2023 23:26:58.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:five_music_disc Expected: 3233 Got: 4244
+[21may.2023 23:26:58.231] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:five_fragment Expected: 3234 Got: 4245
+[21may.2023 23:26:58.231] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:sculk_block Expected: 3235 Got: 4246
+[21may.2023 23:26:58.231] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:sculk_catalyst Expected: 3236 Got: 4247
+[21may.2023 23:26:58.237] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:sculk_shrieker Expected: 3237 Got: 4248
+[21may.2023 23:26:58.238] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:sculk_vines Expected: 3238 Got: 4249
+[21may.2023 23:26:58.238] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: warden_and_sculk:reinforced_deepslate Expected: 3239 Got: 4250
+[21may.2023 23:26:58.239] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:mob_effect: Object did not get ID it asked for. Name: warden_and_sculk:darkness Expected: 81 Got: 116
+[21may.2023 23:26:58.240] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_agitated Expected: 1934 Got: 2070
+[21may.2023 23:26:58.242] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_roar Expected: 1935 Got: 2071
+[21may.2023 23:26:58.244] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_hurts Expected: 1936 Got: 2072
+[21may.2023 23:26:58.246] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_angry Expected: 1937 Got: 2073
+[21may.2023 23:26:58.247] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_ambient Expected: 1938 Got: 2074
+[21may.2023 23:26:58.248] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_death Expected: 1939 Got: 2075
+[21may.2023 23:26:58.249] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_attack Expected: 1940 Got: 2076
+[21may.2023 23:26:58.249] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_heartbeat Expected: 1941 Got: 2077
+[21may.2023 23:26:58.250] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_dig Expected: 1942 Got: 2078
+[21may.2023 23:26:58.250] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_emerge Expected: 1943 Got: 2079
+[21may.2023 23:26:58.251] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_sniff Expected: 1944 Got: 2080
+[21may.2023 23:26:58.251] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_listening Expected: 1945 Got: 2081
+[21may.2023 23:26:58.251] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_listening_angry Expected: 1946 Got: 2082
+[21may.2023 23:26:58.252] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:warden_step Expected: 1947 Got: 2083
+[21may.2023 23:26:58.252] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:sculk_shrieker_scream Expected: 1948 Got: 2084
+[21may.2023 23:26:58.253] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:sculk_shrieker_phase_1 Expected: 1949 Got: 2085
+[21may.2023 23:26:58.253] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:sculk_shrieker_phase_2 Expected: 1950 Got: 2086
+[21may.2023 23:26:58.257] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:sonic_charge Expected: 1951 Got: 2087
+[21may.2023 23:26:58.257] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:sonic_boom Expected: 1952 Got: 2088
+[21may.2023 23:26:58.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:five Expected: 1953 Got: 2089
+[21may.2023 23:26:58.262] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:deepstone_caves_walking_on_monster Expected: 1954 Got: 2090
+[21may.2023 23:26:58.264] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:deepstone_caves_steps Expected: 1955 Got: 2091
+[21may.2023 23:26:58.264] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:disturbance_at_deep_dark Expected: 1956 Got: 2092
+[21may.2023 23:26:58.264] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: warden_and_sculk:deep_dark_ambience Expected: 1957 Got: 2093
+[21may.2023 23:26:58.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:enchantment: Object did not get ID it asked for. Name: warden_and_sculk:swift_sneak Expected: 59 Got: 66
+[21may.2023 23:26:58.265] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: warden_and_sculk:warden Expected: 394 Got: 437
+[21may.2023 23:26:58.266] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: warden_and_sculk:sonic_boom Expected: 395 Got: 438
+[21may.2023 23:26:59.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.4.5 Target: 1.18.2-2.4.8
+[21may.2023 23:26:59.017] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[21may.2023 23:26:59.451] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.6.1 Target: null
+[21may.2023 23:26:59.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [warden_and_sculk] Starting version check at https://raw.githubusercontent.com/Vicale200/the_warden/main/updateChecker
+[21may.2023 23:26:59.752] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [warden_and_sculk] Found status: UP_TO_DATE Current: 2.9.0 Target: null
+[21may.2023 23:26:59.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[21may.2023 23:26:59.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 2.2.1 Target: null
+[21may.2023 23:26:59.815] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[21may.2023 23:26:59.837] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 7.6.4 Target: 7.6.5
+[21may.2023 23:26:59.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[21may.2023 23:26:59.863] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[21may.2023 23:26:59.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[21may.2023 23:27:00.203] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.4.2 Target: 0.4.2
+[21may.2023 23:27:00.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
+[21may.2023 23:27:00.388] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2320!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.2.jar%2397!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.2.jar%2398!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.2.jar%2397!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.2.jar%2398!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2320!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2320!/:?]
 	... 6 more
-[21may.2023 00:59:58.238] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[21may.2023 00:59:58.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA_OUTDATED Current: 1.4.2 Target: 1.4.3
-[21may.2023 00:59:59.608] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/gerar/OneDrive/Escritorio/SV%20OG/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2396!/assets/.mcassetsroot' uses unexpected schema
-[21may.2023 00:59:59.613] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/gerar/OneDrive/Escritorio/SV%20OG/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2396!/data/.mcassetsroot' uses unexpected schema
-[21may.2023 01:00:03.454] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21may.2023 01:00:03.456] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21may.2023 01:00:03.460] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21may.2023 01:00:03.495] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21may.2023 01:00:03.535] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21may.2023 01:00:03.545] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[21may.2023 01:00:03.555] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[21may.2023 01:00:03.578] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-[21may.2023 01:00:03.587] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
-[21may.2023 01:00:03.596] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
-[21may.2023 01:00:03.624] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
-[21may.2023 01:00:17.988] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[21may.2023 01:00:21.363] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3366 advancements
-[21may.2023 01:00:21.366] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[21may.2023 01:00:21.367] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[21may.2023 01:00:21.385] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[21may.2023 01:00:21.406] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[21may.2023 01:00:21.568] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[21may.2023 01:00:21.571] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[21may.2023 01:00:21.576] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[21may.2023 01:00:21.581] [Worker-Main-6/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[21may.2023 01:00:25.025] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[21may.2023 01:00:25.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21may.2023 01:00:25.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21may.2023 01:00:25.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21may.2023 01:00:25.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21may.2023 01:00:25.269] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
-[21may.2023 01:00:25.747] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[21may.2023 01:00:25.766] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: Loading "Easier Sleeping" Server Config
-[21may.2023 01:00:25.768] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [sleep_percent] = 50
-[21may.2023 01:00:25.768] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [sleep_message] = is now in bed.
-[21may.2023 01:00:25.769] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [wake_message] = stood up.
-[21may.2023 01:00:25.772] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [morning_message] = Good Morning
-[21may.2023 01:00:25.773] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [dimensions] = [minecraft:overworld]
-[21may.2023 01:00:25.773] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [dimension_list_type] = SLEEP_ACTIVE
-[21may.2023 01:00:25.773] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: "Easier Sleeping" Server Config loaded
-[21may.2023 01:00:25.860] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[21may.2023 01:00:26.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21may.2023 01:00:30.261] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
-[21may.2023 01:00:30.265] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
-[21may.2023 01:00:30.266] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
-[21may.2023 01:00:30.270] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
-[21may.2023 01:00:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21may.2023 01:00:32.794] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21may.2023 01:00:33.124] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21may.2023 01:00:33.193] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21may.2023 01:00:33.252] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21may.2023 01:00:33.306] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21may.2023 01:00:33.315] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21may.2023 01:00:33.457] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21may.2023 01:00:33.953] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[21may.2023 01:00:34.454] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
-[21may.2023 01:00:34.953] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[21may.2023 01:00:35.569] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
-[21may.2023 01:00:36.750] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6298 ms
-[21may.2023 01:00:36.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.029s)! For help, type "help"
-[21may.2023 01:00:36.803] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21may.2023 01:00:36.856] [Server thread/INFO] [ring_of_teleport/]: RingOfTeleport server setup
-[21may.2023 01:00:37.034] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 64850 bytes (in 7 string chunks with the size of 10000)
-[21may.2023 01:00:37.112] [VoiceChatServerThread/INFO] [voicechat/]: Server started at port 25565
+[21may.2023 23:27:00.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[21may.2023 23:27:00.652] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA_OUTDATED Current: 1.4.2 Target: 1.4.3
+[21may.2023 23:27:01.510] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/gerar/OneDrive/Escritorio/SV%20OG/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2397!/assets/.mcassetsroot' uses unexpected schema
+[21may.2023 23:27:01.510] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/gerar/OneDrive/Escritorio/SV%20OG/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2397!/data/.mcassetsroot' uses unexpected schema
+[21may.2023 23:27:05.893] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21may.2023 23:27:05.914] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21may.2023 23:27:05.963] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21may.2023 23:27:05.975] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21may.2023 23:27:06.046] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21may.2023 23:27:06.052] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[21may.2023 23:27:06.079] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[21may.2023 23:27:06.084] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, start] and [witherstormmod, cluster, create, pos] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[21may.2023 23:27:06.085] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, cluster, create, pos] and [witherstormmod, cluster, create, start] with inputs: [^1 ^ ^-5, 0 0 0, ~ ~ ~, ^ ^ ^, ~0.5 ~1 ~-5]
+[21may.2023 23:27:06.087] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, bowels, new] and [witherstormmod, bowels, entity] with inputs: [new]
+[21may.2023 23:27:06.100] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [witherstormmod, ultimateTarget, set, storm, pos] and [witherstormmod, ultimateTarget, set, storm, player] with inputs: [0 0 0]
+[21may.2023 23:27:20.513] [Worker-Main-4/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[21may.2023 23:27:24.002] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3368 advancements
+[21may.2023 23:27:24.049] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[21may.2023 23:27:24.102] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[21may.2023 23:27:24.138] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[21may.2023 23:27:24.165] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[21may.2023 23:27:24.327] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[21may.2023 23:27:24.337] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[21may.2023 23:27:24.338] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[21may.2023 23:27:24.340] [Worker-Main-4/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[21may.2023 23:27:28.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[21may.2023 23:27:28.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21may.2023 23:27:28.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21may.2023 23:27:28.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21may.2023 23:27:28.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21may.2023 23:27:28.754] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[21may.2023 23:27:29.206] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[21may.2023 23:27:29.247] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: Loading "Easier Sleeping" Server Config
+[21may.2023 23:27:29.298] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [sleep_percent] = 50
+[21may.2023 23:27:29.298] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [sleep_message] = is now in bed.
+[21may.2023 23:27:29.299] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [wake_message] = stood up.
+[21may.2023 23:27:29.300] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [morning_message] = Good Morning
+[21may.2023 23:27:29.300] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [dimensions] = [minecraft:overworld]
+[21may.2023 23:27:29.300] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: [dimension_list_type] = SLEEP_ACTIVE
+[21may.2023 23:27:29.301] [Server thread/INFO] [de.geheimagentnr1.easier_sleeping.config.ServerConfig/]: "Easier Sleeping" Server Config loaded
+[21may.2023 23:27:29.465] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[21may.2023 23:27:29.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21may.2023 23:27:32.603] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[21may.2023 23:27:32.629] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[21may.2023 23:27:32.668] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[21may.2023 23:27:32.680] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[21may.2023 23:27:32.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21may.2023 23:27:47.221] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.226] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.229] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.233] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.235] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.237] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.242] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.243] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.254] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.264] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.266] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.272] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.274] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.276] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.278] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.286] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.287] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.293] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.295] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.298] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.300] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.305] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.307] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.309] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.312] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.314] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.317] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.322] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.324] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.325] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21may.2023 23:27:47.808] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[21may.2023 23:27:48.227] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15420 ms
+[21may.2023 23:27:48.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.140s)! For help, type "help"
+[21may.2023 23:27:48.269] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21may.2023 23:27:48.309] [Server thread/INFO] [ring_of_teleport/]: RingOfTeleport server setup
+[21may.2023 23:27:48.441] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 64850 bytes (in 7 string chunks with the size of 10000)
+[21may.2023 23:27:48.461] [VoiceChatServerThread/INFO] [voicechat/]: Server started at port 25565
+[21may.2023 23:27:52.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21may.2023 23:27:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21may.2023 23:27:52.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21may.2023 23:27:53.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21may.2023 23:27:53.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21may.2023 23:27:53.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21may.2023 23:27:53.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[21may.2023 23:27:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[21may.2023 23:27:53.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[21may.2023 23:27:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21may.2023 23:27:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21may.2023 23:27:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21may.2023 23:27:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[21may.2023 23:27:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[21may.2023 23:27:53.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[21may.2023 23:27:53.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
